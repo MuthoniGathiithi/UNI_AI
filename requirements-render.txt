@@ -1,0 +1,27 @@
+# Lightweight requirements for Render deployment
+# Avoids heavy torch dependency - uses CPU-optimized packages
+
+# Core Dependencies
+streamlit>=1.28.0
+requests>=2.31.0
+PyYAML>=6.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# PDF Processing
+PyMuPDF>=1.23.0
+
+# RAG & Vector Search (Phase 7)
+# Using CPU-optimized versions
+faiss-cpu>=1.7.4
+
+# Lightweight embeddings (no torch)
+sentence-transformers>=2.2.0
+
+# LLM Integration
+ollama>=0.0.1
+
+# Utilities
+python-dotenv>=1.0.0

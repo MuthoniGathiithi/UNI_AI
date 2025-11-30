@@ -1,0 +1,28 @@
+# I-TUTOR Frontend Dependencies
+# Phase 8 MVP - Streamlit UI
+
+# Core UI Framework
+streamlit>=1.28.0
+
+# HTTP & API
+requests>=2.31.0
+
+# Configuration
+pyyaml>=6.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Vector Search & RAG
+faiss-cpu>=1.7.4
+sentence-transformers>=2.2.0
+
+# LLM Integration
+ollama>=0.0.1
+
+# PDF Processing (for backend)
+PyMuPDF>=1.23.0
+
+# Utilities
+python-dotenv>=1.0.0

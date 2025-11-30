@@ -1,0 +1,48 @@
+version: '3.8'
+
+services:
+  # Streamlit Frontend
+  frontend:
+    build: .
+    container_name: i-tutor-frontend
+    ports:
+      - "8501:8501"
+    environment:
+      - PYTHONUNBUFFERED=1
+      - STREAMLIT_SERVER_HEADLESS=true
+      - STREAMLIT_SERVER_ENABLEXSRFPROTECTION=false
+      - STREAMLIT_SERVER_ENABLECORS=false
+      - STREAMLIT_LOGGER_LEVEL=info
+      - OLLAMA_HOST=http://ollama:11434
+    volumes:
+      - .:/app
+      - /app/__pycache__
+    depends_on:
+      - ollama
+    networks:
+      - i-tutor-network
+    restart: unless-stopped
+
+  # Ollama LLM Server
+  ollama:
+    image: ollama/ollama:latest
+    container_name: i-tutor-ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    environment:
+      - OLLAMA_HOST=0.0.0.0:11434
+    networks:
+      - i-tutor-network
+    restart: unless-stopped
+    # Pull llama2 model on startup
+    command: sh -c "ollama pull llama2 && ollama serve"
+
+networks:
+  i-tutor-network:
+    driver: bridge
+
+volumes:
+  ollama_data:
+    driver: local

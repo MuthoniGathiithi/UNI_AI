@@ -1,0 +1,1506 @@
+[
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF250",
+    "year": "2019",
+    "question": "Q1. Rewrite the following sentences to be in active voice\n\ni.\nAn elaborate supper for the minors was prepared by Liam and his children\nii.\nIt was decided by the court that the tender awarded was invalid\niii.\nAfter Leornado da Le’s death, the monach was purchased by King David of\nFrance\niv.\nThe first commercial successful portable vacuum cleaner was invented by the\njanitor who was allegedly allergic to dust.\nv.\n The allegorical novel Animal Farm was written by British author George Orwell\nduring World War II.\n\n(10 Marks)",
+    "source_file": "contentitemfile_claktwd6p2x880a21qhmbq4yz.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF250",
+    "year": "2019",
+    "question": "Q2. Arrange the following information correctly using APA style of documentation.\ni) A book edited by Jane Kiiru, Wayne Musungu and John Wafula. The book is entitled Worders\nof God and it was published by Mwalimu publishers in Nairobi in the year 2005.\nii) A 3 rd edition of a book edited by Elizabeth Andeyo. The book is entitled Academic Day. It\nwas published by Longhorn Publishers in Nairobi. The year of publication is 2004.\n\niii) A book written by Kenya Instituted of Education in 2001 and published by Government\nPrinters and has the title English Hand Book for Teachers. The town of publication is Nairobi.\niv) A 10 th edition of a book written by S.J. Hopkins with the title Drugs and Pharmacology for\nnurses. It was published by Churchill Livingstone in 1989 at Melbourne.\nv) An article written by Charles Otieno. It appeared in the Sunday Nation. The month of May 23\nrd . The title of the article is Enforce Smoking Ban. It is on page 12. The year it appeared in the\nnewspaper is 2006.\n\n(10 Marks)",
+    "source_file": "contentitemfile_claktwd6p2x880a21qhmbq4yz.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF250",
+    "year": "2019",
+    "question": "Q3. Write a feature article of 250-300 words on preparing for retirement. Include in your article\nthe following aspects: -\ni)\nFinancial planning\nii)\nDeveloping hobbies\niii)\nHealth and fitness\niv)\nVoluntary work\nv)\nSocializing\n\n(10 Marks)",
+    "source_file": "contentitemfile_claktwd6p2x880a21qhmbq4yz.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF250",
+    "year": "2019",
+    "question": "Q4. You have been assigned the task of writing a news article concerning imported\ncontraband sugar. The following is a summary of the findings:\na) An analysis carried out on samples of the 1,400 bags of illegal sugar seized by police in\ndifferent operations revealed that some of the sugar contained contaminated water insoluble\nmatter.\nb) Recently, Dr Matiang’i had inspected another 1,365 bags of illegal sugar recovered from\nwarehouses in Eastleigh, Ruiru and Nairobi’s Industrial Area.\nc) Machines used to package and repackage the illegally imported sugar were also impounded\nduring the police operation.\n\nRequired:\nWrite a news item of not less than a half-page length. Pay attention to principles of good news\nwriting and structure the article professionally.\n\n(10 Marks)",
+    "source_file": "contentitemfile_claktwd6p2x880a21qhmbq4yz.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION ONE – 20 MARKS\n\nStudy the diagram below very carefully. By using VLSM, create the subnets and show where\nthey fit on the interfaces using the IP address 192.168.10.0\n\nDraw your detailed illustrated diagram showing what IP address is assigned to which port using\nVLSM and upload your diagram to Moodle within the given time.",
+    "source_file": "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION TWO\n\nA company has considered creating a network for their complex that has just been completed.\nThe building is composed of five floors including the ground floor. You have been tasked to be\nthe designer of this network which will later be connected to the rest of the company network. It\nis assumed that you will base your design on Ethernet and all the floors will be cabled. It is\nfurther assumed that each floor will have approximately 400 computers. On each floor, there will\nbe administrative computers which must be separated from the student computers\n\nTask:\n\n1.\nPrepare a cabling plan to cover all the floors with specific emphasis on the requirements\nfor the work areas, telecommunications rooms (wiring closets), horizontal and backbone cabling.\n2.\nPrepare a detailed logical topology diagram and show IP address plan and the relevant\ndevices you.\n3.\nIllustrate your three-layer design taking into account the considerations for access layer,\ndistribution layer and core layer device requirements\n4.\nDevelop a security plan for your network\n5.\nDocument your tasks and upload them to Moodle within the allocated time.",
+    "source_file": "contentitemfile_clakugdsd5ubp0a21yb3ktpya.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2019",
+    "question": "STRUCTURES AND ALGORITHMS\nA retail business must file a monthly sales tax report listing the total sales for the month and the\namount of country and county sales tax collected. The country sales tax rate is 4 percent and the\ncounty sales tax rate is 2 percent of the monthly sales. Design an algorithm in pseudo code and\nflow chart (separately) for a program that asks the user to enter the total sales for the month then\ncalculate and display the following:\n• The amount of county sales tax\n• The amount of country sales tax\n• The total sales tax (county plus country)\n20 Marks\nChaining is a method of resolving Hashing Algorithm Conflicts. A hash algorithm is a calculation that is\napplied to transform a key to an address(index). Supposing you are provided with the algorithm below:\neqn => add= key mod n\nwhere add is the address or the index position in an array(where we would like to map our\nitem in the array)\nkey = sum of ASCII codes of the elements of an array. i.e for an array having the element\nMoe M=77, o=111, e=101 total 289\nmod = modulus operation\nn is the size of the array\nQuestion\nMap the following 10 elements in an array by calculating their addresses using the algorithm above\nresolving any conflicts using Chaining Method. Provide a diagram showing your answer to these.\n1. Fox\n2. Trot\n3. Mode\n4. Link\n5. Milk\n6. End\n7. Joys\n8. Nock\n9. TCPIP\n10. WEND\n\n20 Marks",
+    "source_file": "contentitemfile_clakughz15v0f0a21hz2qnkzu.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION ONE – 20 MARKS\na)\nDiscuss the politics surrounding the usage of the electromagnetic frequency spectrum,\nhighlighting the issues surrounding the usage of each frequency band\nb)\nDiscuss the role of standards bodies in the usage of the electromagnetic frequency\nspectrum and how they have resolved the issues in a) above\nc)\nDiscuss the emerging wireless technologies and how they are likely to impact human life",
+    "source_file": "contentitemfile_clakuh98y5yyz0a21xi9im3ed.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION TWO – 20 MARKS\na)\nCompare and contrast the wired and wireless technologies and their impact on human life\nb)\nDiscuss future of IoT and how it is likely to impact human life\nc)\nDiscuss the politics surrounding the deployment of 5G as a technology",
+    "source_file": "contentitemfile_clakuh98y5yyz0a21xi9im3ed.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION ONE\na) Consider the decision-making situation defined by the following rules:\ni.\nIf it is a nice day and it is summer, then I go to the golf course.\nii.\nIf it is a nice day and it is winter, then I go to the ski resort.\niii.\nIf it is not a nice day and it is summer, then I go to work.\niv.\nIf it is not a nice day and it is winter, then I go to class.\nv.\nIf I go to the golf course, then I play golf.\nvi.\nIf I go to the ski resort, then I go skiing.\nvii.\nIf I go skiing or I play golf, then I have fun.\nviii.\nIf I go to work, then I make money.\nix.\nIf I go to class, then I learn something.\nFollow the rules for the following situations (what do you conclude for each one?):\ni.\nIt is a nice day and it is summer.\nii.\nIt is not a nice day and it is winter.\niii.\nIt is a nice day and it is winter.\niv.\nIt is not a nice day and it is summer.\nb) Are there any other combinations that are valid? Explain.\nc) What needs to happen for you to “learn something” in this knowledge universe? Start\nwith the conclusion “learn something” and identify the rules used (backward) to get to the\nneeded facts.\nd) Encode the knowledge into a graphical diagram (like an influence diagram). Use a circle\nto represent a fact such as: The day is nice or The day is not nice and an arrow to indicate\ninfluence.\n\ne) Write a conventional program to execute this knowledge. Use IF- THEN (ELSE)\nstatements in your implementation. How many lines long is it? How hard would it be to\nmodify the program to insert new facts and a rule such as: If it is cloudy and it is warm\nand it is not raining and it is summer then I go play golf.\nf) In an implementation similar to the one in part (d), write a new implementation but store\nthe knowledge in variables. Let the program search the arrays to make decisions.",
+    "source_file": "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION ONE\nYou are required to develop a small rule based Expert System. First, choose a suitable problem\ndomain to work with. Given the limited time available, you should try to pick something\n“simple”, for example:",
+    "source_file": "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "5. How to find a good husband/wife/boyfriend/girlfriend",
+    "source_file": "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "6. How to pass your expert system exam.\nIt will be assumed that the ‘knowledge engineers’ are already familiar with the technical\nterminology and jargon associated with the problem domain. You will soon find out how much,\nor little, expert knowledge your ‘experts’ actually have. Think about the goals for your system,\nand the steps that will lead to them. Think about the different outputs your system should be able\nto produce. Clearly, how the Expert System should respond at each stage will depend on many\ndifferent things (such as the age, sex, affluence, tastes, intelligence, skills, mood, etc. of the\nuser), and appropriate rules will need to be built into the system so that it responds appropriately\nto each potential user in each potential situation. The ‘knowledge engineers’ should build up an\nappropriate intermediate representation that their ‘expert’ can help them refine. Think about what\nkind of intermediate representation would be most appropriate for your chosen problem – a\nsemantic network, or decision tree maybe? You should also consider whether your system needs\nto be capable of reasoning with uncertain or fuzzy information, and if so, how in practice you\n\ncould do this. You clearly won’t have time to convert your intermediate representation into a\nfully functional expert system, but you should think about how you would go about doing it if\nyou did have the time. You should aim to consider as many different aspects of Expert System\nbuilding as you can, rather than concentrating on one aspect in detail.",
+    "source_file": "contentitemfile_clakuhj8i60j00a21zt1ce8uk (1).pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2020",
+    "question": "QUESTION ONE (20 Marks) Compulsory\na). A software company would like to adopt a new software process improvement framework\nto enhance the quality of their software, reduce costs and accelerate their development\nprocesses. Discuss the various process improvement frameworks available that can help\nthe company quality and productivity objectives.\n(8 Marks)\nb). For EACH of the following software development approaches, provide an overview of\nthe approach and explain to which development situations the approach is most suited.\n\n(6 Marks)\n• Prototyping\n• Software reuse\n• Design patterns\nii) A company wishes to develop a safety-critical patient monitoring system for a\nhospital. Discuss the benefits and potential problems of combining the above\napproaches in the development and delivery of such a system.\n(6 Marks)",
+    "source_file": "contentitemfile_clakvk25gbdjq0a21e8jdx62j.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2020",
+    "question": "QUESTION TWO (15 Marks)\na) Zave defines Requirements Engineering as “the branch of software engineering concerned\nwith the real-world goals for, functions of, and constraints on software systems [and] the\nrelationship of these factors to precise specifications of software behavior, and to their\nevolution over time and across software families”. Why is Requirements Engineering\nconsidered to be the most important part of software engineering?\n\n(4 Marks)\n\nb) Structured Analysis proceeds by modelling the current physical system, abstracting a\nmodel of the current logical system, and then modelling the new logical system. What are\nthe advantages and disadvantages of building these three separate models? What\nrepresentations are used for each of these models?\n(4 Marks)\nc) Explain why each of the following is an important property of a software specification,\nand explain how it can be achieved when writing specifications:\ni)\nvalidity;\nii)\ntraceability;\niii)\nverifiability.\n\n(3 Marks)\nd) Project managers sometimes regard work put into writing high quality specifications as\n“gold plating”, and claim that it is unnecessary as it doesn’t contribute to producing\nprogram code. Under what circumstances is this view sensible, and under what\ncircumstances is it foolish?\n\n(4 Marks)\n\nQESTION THREE (15 Marks)\nBelow\nis\nthe\ndraft\nspecification\nfor\na\nproposed\nsoftware\nsystem:\n“A program is required to run the controller of a burglar alarm system. A typical system consists\nof a number of sensors connected by individual circuits to a central control box containing the\ncontroller.\nThe control box has a simple keypad and display. Sensors include switches, heat detectors and\nmotion detectors. Each sensor has an identification code which can be read by the controller to\nidentify the sensor. The controller allows an operator to select which sensors are active and turn\non or off the system. If a sensor is triggered when the system is active, the controller must activate\nthe alarms (a siren and a bell) and display a message on the display panel indicating which sensor\nis involved. The operator must enter a security code before the system is turned on or off.”\na) Create a detailed UML class diagram for the alarm program. Make sure each class is\nlabelled with any key attributes or operations.\n\n(7 Marks)\nb) Create UML sequence diagrams to show how the program responds to an alarm being\ntriggered, and how the operator can turn the system off.\n\n(8 Marks)",
+    "source_file": "contentitemfile_clakvk25gbdjq0a21e8jdx62j.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2020",
+    "question": "QUESTION FOUR (15 Marks)\nA bank’s Managing Director has looked at the IT department’s accounts and noted that 80% of\nits money is spent maintaining existing software, and only 20% is spent developing new\nsoftware. He thinks this is a waste of money and wants to do something about it!\na) Describe three types of software maintenance that the bank’s money is likely to be spent\non.\n\n(3 Marks)\nb) Discuss whether the Managing Director is correct to think that each of these types of\nmaintenance is a waste of money.\n\n(3 Marks)\nc) Discuss the main problems faced by a maintenance engineer.\n\n(6 Marks)\nd) It is noted that the bank’s software is somewhat unreliable. Discuss what this means in\nsoftware engineering terms.\n\n(3 Marks)",
+    "source_file": "contentitemfile_clakvk25gbdjq0a21e8jdx62j.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION ONE [30 MARKS]\na) What type of source documents do the following refer to?\n\n(4 Marks)\ni. Creese A et al. (2002) Cost-effectiveness of HIV/AIDS interventions in Africa: a systematic\nreview of the evidence. The Lancet 359: 1635-1642.\nii. Centers for Disease Control and Prevention: Multidrug-Resistant Tuberculosis (MDR TB).\nDivision of Tuberculosis Elimination, Centers for Disease Control and Prevention: Atlanta GA;\nApril 2010 [online: accessed 27 September 2010];\nwww.cdc.gov/tb/publications/factsheets/drtb/mdrtb.htm\niii. Hahn, R. (1999) Anthropology in Public Health. Oxford, Oxford University Press.\niv. Statistics for Wales (2008). Health statistics Wales 2008. Welsh Assembly Government.\nb) Reduce dead weight words from the following:\ni) “I would like to assert that the author should be considered to be a moron.”\n(3 Marks)\nii) “The expected adoption of information technology, based on the assumption of a normal\ndistribution of intelligence in the population, is stated to be theoretically about 2.5%.” (3 Marks)\n\niii) “This paper provides a review of the basic tenets of applied computing research design,\nusing as examples studies that illustrate the methodologic challenges or that demonstrate\nsuccessful solutions to the difficulties inherent in computing research.”\n\n(3 Marks)\nc) Explain assessment irregularities you must avoid when writing a research paper (6 Marks)\nd) From the following select the correct sentence.\n\n(6 Marks)\ni.\na) The close friendship that existed between them was quickly dissolved.\nb) The close friendship that existed among them was quickly dissolved.\nii.\n a) She eluded to the fight that occurred earlier.\nb) She alluded to the fight that occurred earlier.\niii.\na) She lies out in the sun.\nb) She lays out in the sun.\ne) Describe any FIVE common errors of word usage and give examples. (5 Marks)",
+    "source_file": "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION TWO [20 MARKS]\na) Discuss the rules followed in Plagiarism.\n\n(8 Marks)\nb) Differentiate between the following:\ni. Prevalence v. Incidence\n\n(3 Marks)\nii. Principle v. principal\n\n(3 Marks)",
+    "source_file": "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION THREE [20 MARKS]\na) Briefly explain four parts of a proposal\n\n(8 Marks)\nb) Explain what an effective literature review should do\n\n(8 Marks)\nc) Explain two principal components to citing references\n\n(4 Marks)",
+    "source_file": "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION FOUR [20 MARKS]\n\na) Discuss five functions of a literature review.\n\n(10 Marks)\nb) Indicate if the following is a noun or adjective:\n\n(6 Marks)\ni.\n a) She was a rational human being.\nb) Their rationale for the move was that it would save a great deal of money.\nii.\na) The ball was 21 feet in diameter.\nb) The ball had a 21-foot diameter.\nc) Rewrite the following sentences to be correct\n\n(4 Marks)\ni. Every one of us knows they are fallible.\n\nii. Each student pulled out their notebook.",
+    "source_file": "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2019",
+    "question": "QUESTION FIVE [20 MARKS]\na) Discuss the four stages involved in writing an academic piece of work.\n(16Marks)\nb) Highlight any four fallacies in academic writing\n\n(4Marks)",
+    "source_file": "contentitemfile_clakwt2aohs3q0a21tvadixey.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION ONE\na) The abuse of computers has also given birth to a gamut of new age crimes that are\naddressed by the Computer Misuse and Cybercrimes Act. Having this in mind:\ni.\nDifferentiate cybercrime from a conventional crime\n\n(4 Marks)\nii.\nExplain the \"unlawful acts wherein the computer is either a tool or a target or\nboth\".\n\n(10 Marks)\nb) Explain the objective of the Act\n\n (8 Marks)\nc) Discuss the various Techniques used by hackers to undertake cyber-crimes (8 Marks)",
+    "source_file": "contentitemfile_clakwthizhuac0a21dqibw26p.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION THREE\na) Cybercrime is an evil having its origin in the growing dependence on computers in\nmodern life. Discuss\n\n(12 Marks)\nb) The Unauthorized access to computer systems or network is commonly referred to as\nhacking.\nIn light of the above discuss the various method of hacking\n\n(8 Marks)",
+    "source_file": "contentitemfile_clakwthizhuac0a21dqibw26p.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION FOUR\na) Data encryption is considered as a good practice when sharing information online.\nHowever, some of the Cyber offenders use this technology to hide their bad deeds\nfrom the legal laws. Discuss how this technology hinders criminal investigations.\n\n (12 Marks)\nb) Discuss the various ways of preventing cybercrimes\n\n(8 Marks)",
+    "source_file": "contentitemfile_clakwthizhuac0a21dqibw26p.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION FIVE\na) As a security professional, it may help you to defend against hackers and other\ninformation security criminals if you recognize that they often consider their\nmotivations to be neither illicit nor unethical. Discuss any five ethical fallacies\n\n(10 Marks)\nb) Write short notes on:\ni.\nWarranties\n\n (6 Marks)\nii.\nExpectation of privacy\n\n(4 Marks)",
+    "source_file": "contentitemfile_clakwthizhuac0a21dqibw26p.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION ONE (30 MARKS) COMPULSORY\na) Write a function in VB.net that can be used to calculate the balance (change) to be\ngiven back to a customer after purchasing goods in store. The purchase should include at\nleast 5 items.\n\n15 Marks\nb) Write a program that can be used to call the above function and display amount given,\ntotal purchased and change to be given in VB.net\n\n5 Marks\nc) Briefly describe the terms below\n(i) Option strict\n (ii) Parse\n (iii) Explicit Declaration\n\n6 Marks\n\nd) VB has two different types of constants describe them using examples 4 Marks",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION TWO (20 MARKS)\n\nRoberta must decide which courses to register for in the upcoming semester. She has a\npart-time job and is waiting to find out how many hours per week she will be working\nduring the semester.\n· If she works 10 hours (or less) per week, she will register for three classes.\n· If she works more than 10 hours per week she will register for only two classes.\n· If she receives the scholarship for which she has applied, she will quit her job and\ntake five classes.\n\nHours worked is entered into a TextBox control named HoursTextBox. A CheckBox\ncontrol named ScholarshipCheckBox will be checked if she gets the scholarship. Display\nthe number of classes for which she will register to a TextBox control\nnamed NumberOfClassesTextBox.",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION THREE (20 MARKS)\na) i) Define the VB intelligence\n\n2 Marks\n ii) Explain why you would prefer it for typing code to an ordinary text editor\n4 Marks\n\nb) Explain what is accomplished by the code statements below\n\nDim MyVariable as String\nMyVariable = Combobox1.Text\nMsgBox MyVariable\n\n6 Marks\n\nc) Define a module. Visual Basic stores code in three different modules. List and explain\nthese modules.\n\n8 Marks",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION FOUR (20MARKS)\na) Write a programme that does the following:",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "1. Asks users to enter a number between 10 and 20.",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "3. When the Button is clicked, your Visual Basic code will check the number\nentered in the Textbox.",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 6
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "4. If it is between 10 and 20, then a message will be displayed.",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 7
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "5. The message box will display the number from the Textbox.",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 8
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "6. If the number entered is not between 10 and 20 then the user will be invited to try\nagain, and whatever was entered in the Textbox will be erased\n10 Marks\n\nb) Add a Combo box and another button to your form. Create a list of items for your\nCombo Box. The list of items in your Combo box can be anything you like - pop\ngroups, football teams, favourite foods, anything of your choice. Then try the\nfollowing:\nUse a select case statement to test what a user has chosen from your drop-down\nlist. Give the user a suitable message when the button was clicked.\n\n10 Marks",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 9
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2018",
+    "question": "QUESTION FIVE (20 MARKS)\n\na) Using examples to illustrate describe the use of the Globalization enumeration\nmethod in Vb.net\n\n6 Marks\nb) Describe using an example in VB the use of ToUpper and Tolower methods\n\n6 Marks\nc) Using sample VB code declare a module-level array and store values to the array\nimmediately.\n\n8 Marks",
+    "source_file": "contentitemfile_clakwvrw1i5mz0a21iz0yrz40.pdf",
+    "question_number": 10
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TAKE800",
+    "year": "2016",
+    "question": "QUESTION ONE\na) Define the term audio editing\n\n(2 Marks)\nb) Give four differences between analog photography and desktop photography.\n\n(8 Marks)\nc) How does a pin-hole camera work\n\n(4 Marks)\nd) A digital camera has an aspect ratio of 16:9, capacity of 16GB, colour depth of 4 bits. If\nthe camera can take 800 still photos, calculate its resolution.\n\n(8 Marks)\ne) You have been contracted to do a documentary for a new dairy company, what essentials\nwill you have\n\n(8 Marks)",
+    "source_file": "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TAKE800",
+    "year": "2016",
+    "question": "QUESTION TWO\na) Explain photo editing\n\n(4 Marks)\nb) What are the critical success factors in photo editing\n\n(6 Marks)\nc) For outdoor photo shooting, what the precautions necessary for excellent results\n(5 Marks)\nd) Discuss how a digital camera has revolutionalised photography in the 21st century\n(5 Marks)",
+    "source_file": "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TAKE800",
+    "year": "2016",
+    "question": "QUESTION THREE\na) State reasons why data compression is important in multimedia applications such as\nvideo editing\n\n(4 Marks)\nb) Demonstrate how Lempel Ziv algorithm works, using a suitable example (6 Marks)\nc) Why should you crediting be done in photography and video productions (4 Marks)\nd) What are the activities in scripting\n\n(6 Marks)",
+    "source_file": "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TAKE800",
+    "year": "2016",
+    "question": "QUESTION FOUR\na) Explain digital watermarking\n\n(2 Marks)\nb) Distinguish between\ni)\nFirewire and USB cable\n\n(4 Marks)\nii)\nSDTV and HDTV\n\n(4 Marks)\niii)\nVideo production and Animation production\n\n(4 Marks)\nc) Define the following roles\ni)\nProducer (2 Marks)\nii)\nscriptwriter (2 Marks)\nd) An audio file has 16bit stereo, 96khz, 6min duration. Calculate its size in megabytes\n(4 Marks)",
+    "source_file": "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TAKE800",
+    "year": "2016",
+    "question": "QUESTION FIVE\na) How much memory is required for an 1200 by 1080 display resolution with thousands of\ncolors per pixel (16 bit)?\n\n[3 Marks]\nb) State four factors that are essential in digital recording\n\n[ 4 Marks]\nc) What is the size of uncompressed sound with CD quality for 1 minute of audio:\n[4 Marks]\nd) Using Huffman encoding algorithm for a data file that has the following characters\nCharacter\nA\nB\nC\nD\nE\nFrequency\n10\n16\n19\n7\n17\n\ni)\nGive the Huffman tree and code\n\n(6 Marks)\nii)\nUsing (i) encode AAEBDEDC\n\n(3 Marks)",
+    "source_file": "contentitemfile_clal1z47b9fjc0a217un7jjgf.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION ONE (30 MARKS)\na) Define the following terms as used in game design and architecture:\ni.\nGame\n\n[2 Marks]\nii.\nGame engine\n\n[2 Marks]\niii.\nGame code\n\n[2 Marks]\nb) Explain why game development generally uses an iterative process.[6 Marks]\nc) Briefly describe the difference between a vector and a scalar.\n[2 Marks]\nd) Given vectors A and B as shown, draw the following:\n\ni.\nA+B\n\n[2 Marks]\nii.\n-1/2 A\n\n[2 Marks]\niii.\nA-B\n\n[2 Marks]\ne) Explain using examples, the purpose of a collisons and physics subsystem in a game\nengine.\n\n[4 Marks]\nf) Suppose you are adding a new kind of entity (e.g. a 3D cube/sphere/polygon) to a\ngame using an entity system, such as the one provided in Unity. Explain roughly the\nmajor steps that you would follow to place your entity within the 3D system.\n[6 Marks]",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION TWO (20 MARKS)\n\na) Describe why a scripting system is important in game design\n\n[2 Marks]\nb) State any three game engines available in the market.\n\n[3 Marks]\n\nA\nB\n\n2\n\nc) Describe why it is possible to use a single game engine for many different games.\n[4 Marks]\nd) Define the term unit vector\n\n[2 Marks]",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "e) Draw A · U using the diagram in question one (d), given that |U| = 1. Hint: U is a unit vector\n\n[3 Marks]\nf) Explain the following subsystems in a game runtime engine:\ni.\nHuman Interface Devices\n\n[2 Marks]\nii.\nResources manager\n\n[2 Marks]\niii.\nGameplay foundation system\n\n[2 Marks]",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION THREE (20 MARKS)\na) Game studios are usually composed of ﬁve basic disciplines which the game\ndevelopment team will fall under. Explain the basic disciplines.\n[10 Marks]\nb) Explain the grid method for collision detection. In what situations is this method\nlikely to work well?\n\n[4 Marks]\nc) Using diagrams describe the two types of coordinate system used in game design.\n\n[4 Marks]\nd) Define the following terms as used in Unity game studio\n\n[2 Marks]\ni.\nPrefab\nii.\nRigidbody",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION FOUR (20 MARKS)\na) Version control is crucial whenever software (including games) is developed by a\nteam of multiple engineers. Describe four reasons why version control is an important\ntool of trade in game design and development.\n\n[4 Marks]\nb) Give two main kinds of calculations that are likely to be performed by a physics\nengine, and explain how each is likely to be used in a game.\n[4 Marks]\nc) Define the term scene as used in game design.\n\n[2 Marks]\nd) Describe the shutdown and start methods used in a rendering manager.\n[4 Marks]\ne) The most common local lighting model employed by game rendering engines is the\nPhong reﬂection model. It models the light reﬂected from a surface as a sum of three\ndistinct terms. Name and describe the three terms.\n\n[6 Marks]\n\n3",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION FIVE (20 MARKS)\na) Explain any five most common game genres in game design\n[10 Marks]\nb) Imagine a game character representing a miner, who has the following main activities,\ngo to the gold mine and dig for nuggets until his pockets are full; then he will go to the\nbank to deposit the gold. The activities can be interrupted if he gets thirsty or tired. If\nhe is thirsty, he will go to the milkbar for a drink to quench his thirst; if he is tired, he\nwill go home and get rested.\ni.\nWhat is a Finite State Machine?\n\n[2 Mark]\nii.\nIdentify the states of the miner and draw a state diagram indicating the state\ntransitions.\n\n[8 Marks]",
+    "source_file": "contentitemfile_clal1z93t9gj00a21bqckfshb.pdf",
+    "question_number": 6
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION ONE (30 MARKS)\na) Define the following terms as used in game design and architecture:\ni.\nGame\n\n[2 Marks]\nii.\nGame engine\n\n[2 Marks]\niii.\nGame code\n\n[2 Marks]\nb) Explain why game development generally uses an iterative process.[6 Marks]\nc) Briefly describe the difference between a vector and a scalar.\n[2 Marks]\nd) Given vectors A and B as shown, draw the following:\n\ni.\nA+B\n\n[2 Marks]\nii.\n-1/2 A\n\n[2 Marks]\niii.\nA-B\n\n[2 Marks]\ne) Explain using examples, the purpose of a collisons and physics subsystem in a game\nengine.\n\n[4 Marks]\nf) Suppose you are adding a new kind of entity (e.g. a 3D cube/sphere/polygon) to a\ngame using an entity system, such as the one provided in Unity. Explain roughly the\nmajor steps that you would follow to place your entity within the 3D system.\n[6 Marks]",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION TWO (20 MARKS)\n\na) Describe why a scripting system is important in game design\n\n[2 Marks]\nb) State any three game engines available in the market.\n\n[3 Marks]\n\nA\nB\n\n2\n\nc) Describe why it is possible to use a single game engine for many different games.\n[4 Marks]\nd) Define the term unit vector\n\n[2 Marks]",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "e) Draw A · U using the diagram in question one (d), given that |U| = 1. Hint: U is a unit vector\n\n[3 Marks]\nf) Explain the following subsystems in a game runtime engine:\ni.\nHuman Interface Devices\n\n[2 Marks]\nii.\nResources manager\n\n[2 Marks]\niii.\nGameplay foundation system\n\n[2 Marks]",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION THREE (20 MARKS)\na) Game studios are usually composed of ﬁve basic disciplines which the game\ndevelopment team will fall under. Explain the basic disciplines.\n[10 Marks]\nb) Explain the grid method for collision detection. In what situations is this method\nlikely to work well?\n\n[4 Marks]\nc) Using diagrams describe the two types of coordinate system used in game design.\n\n[4 Marks]\nd) Define the following terms as used in Unity game studio\n\n[2 Marks]\ni.\nPrefab\nii.\nRigidbody",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION FOUR (20 MARKS)\na) Version control is crucial whenever software (including games) is developed by a\nteam of multiple engineers. Describe four reasons why version control is an important\ntool of trade in game design and development.\n\n[4 Marks]\nb) Give two main kinds of calculations that are likely to be performed by a physics\nengine, and explain how each is likely to be used in a game.\n[4 Marks]\nc) Define the term scene as used in game design.\n\n[2 Marks]\nd) Describe the shutdown and start methods used in a rendering manager.\n[4 Marks]\ne) The most common local lighting model employed by game rendering engines is the\nPhong reﬂection model. It models the light reﬂected from a surface as a sum of three\ndistinct terms. Name and describe the three terms.\n\n[6 Marks]\n\n3",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2016",
+    "question": "QUESTION FIVE (20 MARKS)\na) Explain any five most common game genres in game design\n[10 Marks]\nb) Imagine a game character representing a miner, who has the following main activities,\ngo to the gold mine and dig for nuggets until his pockets are full; then he will go to the\nbank to deposit the gold. The activities can be interrupted if he gets thirsty or tired. If\nhe is thirsty, he will go to the milkbar for a drink to quench his thirst; if he is tired, he\nwill go home and get rested.\ni.\nWhat is a Finite State Machine?\n\n[2 Mark]\nii.\nIdentify the states of the miner and draw a state diagram indicating the state\ntransitions.\n\n[8 Marks]",
+    "source_file": "contentitemfile_clal1ze8u9hnw0a21pf66ro7l.pdf",
+    "question_number": 6
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION ONE (20 MARKS)\na) A supplier of computer software programs wants to establish long-term relationships with\nindustrial buyers. Which methods can be used to establish and build these relationships.\n\n(6MARKS)\nb) Discuss the nature of customer behavior in terms of the model of customer behavior.\n\n(8MARKS)\nc) Explain what meant by brand loyalty, brand preference and brand switching. (6 MARKS)",
+    "source_file": "contentitemfile_clal3budhkl470a211zjgp5pf.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION TWO (15MARKS)\na) Define targeting and explain the criteria that need to be met to choose a target market.\n\n(7MARKS)\nb) Explain how marketers can build relationships with their customers.\n (8MARKS)",
+    "source_file": "contentitemfile_clal3budhkl470a211zjgp5pf.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION THREE (15MARKS)\nHow would you use the knowledge you have gained in this unit in evaluating a new promotional\ncampaign for a large gym chain? The campaign is aimed at increasing how often families visit\ngyms. What recommendations would you make? Be critical in your answer.",
+    "source_file": "contentitemfile_clal3budhkl470a211zjgp5pf.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION FOUR (15MARKS)\na) Explain why managers need to understand the marketing environment.\n(5MARKS)\nb) Discuss how local software developers can cope with global completion\n(10MARKS)",
+    "source_file": "contentitemfile_clal3budhkl470a211zjgp5pf.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "Question One\na). What is the main difference between conventional computer programs and production\nsystems?\n6 marks\nb). Why a production system model was used to implement the first rule based expert systems?\n\n4 marks\nc). What types of knowledge are used by neural networks and by rule-based systems? What\nkinds of systems are they with respect to the type of knowledge they use?\n4 marks\nd). Describe using examples how you would create rules and facts\n6 marks",
+    "source_file": "contentitemfile_clal3eqnxlabg0a21r9zvqhrd.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "Question Two\na). What are the major benefits of the ES compared to the manual system?\n6 marks\nb). Given the current status of the Web, discuss how it is changing the availability of ES and\nhow it is being used to embed expertise in other systems.\n5 marks\nc). Explain the difference between forward chaining and backward chaining and the situations\nwhere each one is more appropriate.\n4 marks",
+    "source_file": "contentitemfile_clal3eqnxlabg0a21r9zvqhrd.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "Question Three\na). Define the ES development environment and contrast it with the consultation environment.\n\n5 marks\nb). Explain the types of knowledge that constitute expertise.\n6 marks\nc). Describe how expert systems perform inference.\n4 marks\n\n2",
+    "source_file": "contentitemfile_clal3eqnxlabg0a21r9zvqhrd.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "Question Four\na). Why knowledge acquisition is considered difficult?\n6 marks\nb). Describe at least 3 advantages that expert systems have over organisations that would\notherwise have to employ human experts.\n6 marks\nc). Define an intelligent agent. Why is it useful?\n3 marks",
+    "source_file": "contentitemfile_clal3eqnxlabg0a21r9zvqhrd.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION ONE (20 Marks) Compulsory\ni). In the event a system performs an erroneous task, it likely happens as a result of what is\nknown as GIGO, What does the term refer to? Briefly describe at least three attributes that\nmake the computer such a powerful tool\n(4Marks)\nii). One of the main functions of a computer is to process data. Using a well-illustrated\ndiagrams, show explain how the data processing cycle works\n(3Marks\niii). In regard to input technologies, identify and explain the input technologiesused in\nscanning of cheques in Banking and marking of exam scantron sheets in the education\nindustry\n(4Marks)\niv). If you were to set up a Cyber café business, list the computer hardware you would\nrequire and which network topology you would use to connect the devices to create a\nnetwork? Illustrate topology using a diagram\n(5Marks)\nv). Your friend’s laptop had a problem of either deleting or replicating all files saved on it.\nDiagnose what could be the issue and how can the issue be solved\n(4Marks)\n\n2 | P a g",
+    "source_file": "contentitemfile_clal4hdbjvanv0a214i0nu4kc.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION TWO (15 marks)\ni). Explain what is an Operating System and at least two main functions\n(3Marks)\nii). Preventive maintenance is considered a key role in keeping computers in\n(3Marks)\ngood working condition. List three activities that are part of preventive maintenance\niii). What does the term motherboard form factor mean? List two commonly\n(5Marks)\nMotherboard form factors and identify two unique difference between them\niv). If you were given a project of creating a database similar to your phonebook\nWhat type of software would you use to achieve this task? Give examples of this\ntype software\n(4Marks)",
+    "source_file": "contentitemfile_clal4hdbjvanv0a214i0nu4kc.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION THREE (15 marks)\ni. A computer keeps on loosing time, diagnose what could be the issue and which\ncomponent of the computer needs to be replaced\n(2Marks)\nii. In a scenario where you were working on an assignment and the electricity\ngoes off and you lose all your work since you had not saved it. Explain why\nthe work cannot be retrieved and on which computer component was the work held\nsince it wasn’t stored\n(4Marks)\niii. List two types of printers, explain the technology they use and where they are\ncommonly used\n(6Marks)\niv. Most computers used in gaming and graphic design have a 64bit processor as opposed to\na 32 bit processor. Explain why a computer that has 64bit processor is preferred and give\ntwo examples of popular processor brands\n(3 Marks)",
+    "source_file": "contentitemfile_clal4hdbjvanv0a214i0nu4kc.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION FOUR (15 Marks)\ni.\nBriefly explain at least two computer features a user checks as a prerequisite before\ninstalling a software on a computer\n(2Marks)\nii.\nDescribe the process which a computer goes through when booting? What is the\ndifference between warm booting and cold booting?\n(4Marks)\nList the key requirements a user has to check first before installing a software in a\ncomputer system\n (4Marks)\niii.\nWhy are discouraged from using public Wi-Fi internet to accessing your online Banking\napplication?\n(2Marks)\niv.\nIn a scenario where a laptop doesn’t have a CD/DVD drive, how would you install\nWindows 10 Operating System? What changes do you have to make to achieve your\nobjective of installing the new operating system?\n(3Marks)",
+    "source_file": "contentitemfile_clal4hdbjvanv0a214i0nu4kc.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2020",
+    "question": "QUESTION ONE (20 Marks) Compulsory\na. Describe the following terms\n\n3 Marks\ni.\nBIOS\nii.\nPOST\niii.\nBOOT Order\nb. With the use of an illustration (Diagram Preferred) outline the structure of a computer’s\nsecondary storage. Hint(Where the read heads go)\n\n4 Marks\nc. List any three Operating System Utilities\n\n3 Marks\n\nd. For the listed above describe the functions they perform in an PC\n3 Marks\ne. Name two types of User Interfaces provided by the Operating System\n2 Marks\nf. Suppose you have been asked to perform a re-install of all the computers in the labs in\nKCA in preparation for a new semester. Kindly advise your team on how to get this done\ntask assuming that you have computers capable of running windows 10.\n\n5 Marks\nQUESTION TW0 (15 Marks)\na. Name three different Kinds of Operating Systems.\n\n3 Marks\nb. Name the operation that is done by an operating system on secondary storage media so\nthat we can save files to it\n\n1 Mark\nc. Name any three filing systems used by operating systems\n\n3 Marks\nd. State two ways one can partition a Hard Disk\n\n2 Marks\n\ne. What is the difference between backup and storing files on an external drive?\n\n2 Marks\nf. Explain the term form factor\n\n2 Marks\ng. Describe how the boot process works starting from powering a machine\n\n5 Marks\nh. Name any two ports that are initialized by an operating system\n\n2 Marks\n\nQESTION THREE (15 Marks)\na. State any three safety precautions one would take before installing 3rd party software\n\n3 Marks\nb. Julian saw the message “No Bootable Disc found “Explain what could be the cause of\nsuch an error\n\n3 Marks\nc. Suggest a solution to this type of an error.\n\n1 Mark\nd. Distinguish between UEFI and Legacy mode of the BIOS\n4 Marks\ne. State and explain any four types of expansion slots\n\n4 Marks",
+    "source_file": "contentitemfile_cldh3fknl6mad0b21ljimusaj.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2020",
+    "question": "QUESTION FOUR (15 Marks)\na. Differentiate between Baby AT and ATX form factors\n\n4 Marks\nb. State the preparation one will undertake in preparation to install a windows 10 Operating\nsystem.\n\nc. Define the following computer risks\n\n3 Marks\ni.\nMalware\nii.\nSpyware\niii.\nVirus\nd. Foor each of these, discuss an appropriate utility that will help a computer user get rid of\nthese.\n3 Marks\ne. List and explain five functions of an Operating System\n\n5 Marks",
+    "source_file": "contentitemfile_cldh3fknl6mad0b21ljimusaj.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION ONE (20 marks) Compulsory\na) Explain two principal components to citing references\n\n(4 Marks)\nb) Explain the term plagiarism and why it is not condoned in academia.\n(4 Marks)\nc) Highlight the things you need to avoid in discussion in scientific writing (4 Marks)\nd) Explain assessment irregularities you must avoid when writing a research paper\n\n(4 Marks)\ne) Explain the purpose of discussion in scientific writing\n\n(4 Marks)",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION TWO (15 marks)\nLiterature Review is a key step in an academic writing, a step the researcher has to undertake\nonce he/she come-up with a project idea\na) Clearly explain what is “literature review”\n\n(2 Marks)\nb) Name the five Reasons and Benefits of literature review.\n\n(10 Marks)\nc) Outline the four principal sources of published materials and clearly explain each, and\nwhat is attainable from each of them.\n\n(3 Marks)\n\nQESTION THREE (15 marks)\na) Discuss the four stages involved in writing an academic piece of work.\n(8 Marks)\nb) Briefly explain four parts of a proposal\n\n(7 Marks)",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION FOUR (15 marks)\na) Define and identify the purpose of writing.\n\n(5 Marks)\nb) Arrange the following information correctly using the APA style of documentation\n\n(10Marks)\ni)\nA book edited by Jane Kiiru, Wayne Musungu and John Wafula. The book is\nentitled Worders of God and it was published by Mwalimu publishers in Nairobi\nin the year 2005.\nii)\nA 3rd edition of a book edited by Elizabeth Andeyo. The book is entitled\nAcademic Day. It was published by Longhorn Publishers in Nairobi. The year of\npublication is 2004.\niii)\nA book written by Kenya Instituted of Education in 2001 and published by\nGovernment Printers and has the title English Hand Book for Teachers. The town\nof publication is Nairobi.\niv)\nA 10 th edition of a book written by S.J. Hopkins with the title Drugs and\nPharmacology for nurses. It was published by Churchill Livingstone in 1989 at\nMelbourne.\nv)\nAn article written by Charles Otieno. It appeared in the Sunday Nation. The\nmonth of May 23 rd. The title of the article is Enforce Smoking Ban. It is on page",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "12. The year it appeared in the newspaper is 2006.",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6 (1).pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION ONE (20 marks) Compulsory\na) Explain two principal components to citing references\n\n(4 Marks)\nb) Explain the term plagiarism and why it is not condoned in academia.\n(4 Marks)\nc) Highlight the things you need to avoid in discussion in scientific writing (4 Marks)\nd) Explain assessment irregularities you must avoid when writing a research paper\n\n(4 Marks)\ne) Explain the purpose of discussion in scientific writing\n\n(4 Marks)",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION TWO (15 marks)\nLiterature Review is a key step in an academic writing, a step the researcher has to undertake\nonce he/she come-up with a project idea\na) Clearly explain what is “literature review”\n\n(2 Marks)\nb) Name the five Reasons and Benefits of literature review.\n\n(10 Marks)\nc) Outline the four principal sources of published materials and clearly explain each, and\nwhat is attainable from each of them.\n\n(3 Marks)\n\nQESTION THREE (15 marks)\na) Discuss the four stages involved in writing an academic piece of work.\n(8 Marks)\nb) Briefly explain four parts of a proposal\n\n(7 Marks)",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "QUESTION FOUR (15 marks)\na) Define and identify the purpose of writing.\n\n(5 Marks)\nb) Arrange the following information correctly using the APA style of documentation\n\n(10Marks)\ni)\nA book edited by Jane Kiiru, Wayne Musungu and John Wafula. The book is\nentitled Worders of God and it was published by Mwalimu publishers in Nairobi\nin the year 2005.\nii)\nA 3rd edition of a book edited by Elizabeth Andeyo. The book is entitled\nAcademic Day. It was published by Longhorn Publishers in Nairobi. The year of\npublication is 2004.\niii)\nA book written by Kenya Instituted of Education in 2001 and published by\nGovernment Printers and has the title English Hand Book for Teachers. The town\nof publication is Nairobi.\niv)\nA 10 th edition of a book written by S.J. Hopkins with the title Drugs and\nPharmacology for nurses. It was published by Churchill Livingstone in 1989 at\nMelbourne.\nv)\nAn article written by Charles Otieno. It appeared in the Sunday Nation. The\nmonth of May 23 rd. The title of the article is Enforce Smoking Ban. It is on page",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2021",
+    "question": "12. The year it appeared in the newspaper is 2006.",
+    "source_file": "contentitemfile_cldh3iyxm6wob0b215nubpfk6.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION ONE [20 MARKS]\na) Using your knowledge of how a school place system works, explain in detail the development of\nthis system using the following phases\n ( 8 marks)\ni) Inception phase\nii) Elaboration phase\niii) Construction phase\niv) Transition phase\nb) Discuss the benefits of using containerization technology\n(2 marks)\nc) Using the example of a simple booking system for a local taxi company, discuss in detail the\nprocess you might follow to identify use cases for a new software system. You should assume\nthat the business is already operating, but without a computer system.\n(5 marks)\nd) An organisation wishes to develop a Management Information System (MIS)that will store all\nthe organisation’s data in a data warehouse. This MIS will provide various reporting functions,\nthat displays information in a highly visual manner via graphs and charts. Discuss which design\ntechniques could be used for the following aspects of the management information system:\ni) The data to be stored in the data warehouse; ii) The reporting functions; iii) The user\ninterface.\n (5 marks)\n\n2",
+    "source_file": "contentitemfile_clf11gll92zzh0b21m21dgr5x.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION TWO [15 MARKS]\na) You are a senior member of a large software house and have been asked to investigate the\npossibilities of developing an on-line ordering system for a well known global supermarket\ncompany. Describe a suitable methodology which could be used to analyse, design and develop\nthe system including the tools and techniques which could be used.\n (7 marks)\nb) Online shopping/e-commerce web sites often present content in the form of images, showing a\nrange of products that can be viewed and purchased using any device that connects to the World\nWide Web; for example: tablet, smartphone, laptop, large screen PC. Explain from a design point\nof view why it is desirable to have a responsive user interface when users browse a web site\nusing a variety of devices.\n (8 marks)",
+    "source_file": "contentitemfile_clf11gll92zzh0b21m21dgr5x.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION THREE [15 MARKS]\na) You work for a large “social networking” company which has recently introduced a one-to-one\nchat mechanism, promising that they will never censor conversations. Users are now reporting\nthat their friends’ computers are being compromised by malicious software. When users click on\nlinks within messages sent by this malicious software, their machine is also compromised, and\nspreads the infection still further. A crisis meeting has decided that the chat software must be\nmodified to block this “worm” behaviour. As test manager outline how you could prove that the\nmodified chat software design meets the required specification\n(8 marks)\nb) Using an example differentiate between Continuous Integration, Continuous Delivery, and\nContinuous Deployment\n(7 marks)",
+    "source_file": "contentitemfile_clf11gll92zzh0b21m21dgr5x.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION FOUR [15 MARKS]\na) Adopting and then tailoring a software process to meet your team's needs is an important and\ndifficult decision, one that is critical to your project's success. There is a myriad of choices,\nranging from prescriptive processes to agile software processes. There is a vast wealth of\nmaterial written about these methodologies. Explain how can you tell whether a methodology\nwill work for you and in particular, how do you determine whether an agile development\nmethodology works within your environment?\n(7 marks)\nb) Explain how you would adapt the design of a user interface to accommodate each of the\nfollowing restrictions or impairments:\n(8 marks)\n • Visual impairment: someone with poor sight who struggles to read.\n• Restricted cognition: someone who is unable to read text; maybe too young or with some\ndisability.\n• Physical impairment: someone who is unable to type and use a keyboard",
+    "source_file": "contentitemfile_clf11gll92zzh0b21m21dgr5x.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION ONE (20 marks) Compulsory\na). Define the following terms\n(5 marks)\ni.\nHardware\nii.\nComputer\niii.\nSoftware\niv.\nCentral Processing Unit (CPU)\nv.\nOperating System (OS)\nb). Describe any four Fields where computers are applied\n(8 marks)\nc). Describe the components of a Central Processing Unit\n(6 marks)\nd). Define computer Bus\n(1 mark)\n\nQUESTION TW0 (15 marks)\na). Describe any five (5) types of computers\n(5 marks)\nb). Describe any four types of computer memory\n(4 marks)\n\nc). Define the following network terminologies\n(5 marks)\ni.\nHost\nii.\nMedia\niii.\nHub\niv.\nFirewall\nv.\nInternet\nd). Define computer network\n(1 mark)\n\nQESTION THREE (15 marks)\na). Define a computer motherboard and describe three functions of a motherboard\n\n(4 marks)\nb). Describe any three computer ports found on the back of a motherboard\n(3 marks)\nc). With aid of diagrams, describe four computer network topologies\n(8 marks)",
+    "source_file": "contentitemfile_cloedanmo0purvu01w17ddkwh.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION FOUR (15 marks)\na). Describe the four methods of data input and processing\n(4 marks)\nb). Define BIOS and describe the functionalities of a computer BIOS\n(5 marks)\nc). Describe five advantages of Unified Extensible Firmware Interface (UEFI) over legacy BIOS\n\n(5 marks)\nd). Define firmware\n (1 mark)",
+    "source_file": "contentitemfile_cloedanmo0purvu01w17ddkwh.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION ONE (20 marks) Compulsory\na. Mention any three methods used to ensure availability of information systems and services at\nall times\n\n(3 marks)\nb. Differentiate between symmetric and asymmetric encryption algorithms\n(4 marks)\nc. Explain the three reasons why protection of transmitted data is one of the most challenging\njobs of a cybersecurity professional\n\n(6 marks)\nd. Describe any four symptoms of malware\n\n(4 marks)\ne. Analyze three ways in which operating systems can be protected against attacks and threats\n(3 marks)\n\nQUESTION TW0 (15 marks)\na. List the four properties of a cryptographic hash function\n\n (4 marks)\nb. Outline any five types of email and browser Attacks\n\n(5 marks)\nc. Differentiate between the following types of malicious software’s\n\n(6 marks)\ni.\nRansomware\nii.\nBackdoors\niii.\nSpyware\n\nQESTION THREE (15 marks)\na. Demonstrate how digital signature technology works\n\n (6 marks)\nb. Explain with examples, the three types of access control within the organization (6 marks)\nc. Explain the term Five Nine as used in Cybersecurity\n\n (3 marks )",
+    "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION FOUR (15 marks)\na. Define the term Steganography as used in Cyber Security\n\n(6 marks)\nb. Illustrate the two data masking techniques\n\n(4 marks)\nc. Distinguish between the three types of hackers\n\n(3 marks)\nd. Demonstrate why connected devices or machines on IoT are extremely valuable to cyber-\nattackers\n\n(2 marks)",
+    "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd (1).pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION ONE (20 marks) Compulsory\na. Mention any three methods used to ensure availability of information systems and services at\nall times\n\n(3 marks)\nb. Differentiate between symmetric and asymmetric encryption algorithms\n(4 marks)\nc. Explain the three reasons why protection of transmitted data is one of the most challenging\njobs of a cybersecurity professional\n\n(6 marks)\nd. Describe any four symptoms of malware\n\n(4 marks)\ne. Analyze three ways in which operating systems can be protected against attacks and threats\n(3 marks)\n\nQUESTION TW0 (15 marks)\na. List the four properties of a cryptographic hash function\n\n (4 marks)\nb. Outline any five types of email and browser Attacks\n\n(5 marks)\nc. Differentiate between the following types of malicious software’s\n\n(6 marks)\ni.\nRansomware\nii.\nBackdoors\niii.\nSpyware\n\nQESTION THREE (15 marks)\na. Demonstrate how digital signature technology works\n\n (6 marks)\nb. Explain with examples, the three types of access control within the organization (6 marks)\nc. Explain the term Five Nine as used in Cybersecurity\n\n (3 marks )",
+    "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION FOUR (15 marks)\na. Define the term Steganography as used in Cyber Security\n\n(6 marks)\nb. Illustrate the two data masking techniques\n\n(4 marks)\nc. Distinguish between the three types of hackers\n\n(3 marks)\nd. Demonstrate why connected devices or machines on IoT are extremely valuable to cyber-\nattackers\n\n(2 marks)",
+    "source_file": "contentitemfile_cloedlw8o0r7qyw014rg25fkd.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION 1\na) At Nanyuki University of Technology progress at the end of the academic year is determined by\nthe number of failed units as shown below: -\nNo of failed units\nVerdict\n5\nExternal Repeat\n4\nRepeat year\n3\nRetake units\n2 or 1\nSit for supplementary exams\n0\nProceed to the next year\nAll others\nDiscontinued\nMaking use of the switch statement, write a program that accepts the number of failed units and\nouts the verdict on progression.\n[4 marks]\nb) Consider class Tenant that has IDNumber, Name, Gender, HouseNumber and RentStartDate as\nits fields.\ni.)\nDefine a parameterized constructor that initializes the fields with specified values.\n\n[3 marks]\nii.)\nDefine a default constructor that sets default values (decide on the values) for the fields.\n\n[2 marks]\n\niii.) Define a property that accesses and sets RentStartDate and ensures the value passed to field\nRentStartDate is not greater than 2025 or less than 2010. In such a case an error message\nshould be given and the value be set to 0.\n[5 marks]\nc) Differentiate between the following:\n\ni.)\nOverloading and Overriding.\n[2 marks]\nii.)\nVirtual method and Abstract method.\n[2 marks]\niii.) Abstract class and Sealed class.\n[2 marks]",
+    "source_file": "contentitemfile_clp859apw1hypzf01iz7wxq63.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION 2\na) Define the following terms: –\n\ni.)\nInstance Variable.\n[2 marks]\nii.)\nStatic Variable.\n[2 marks]\niii.) Namespace.\n[2 marks]\nb) Write a method definition of a method called feeDefaulter that accepts the fee paid and returns\ntrue if the fee paid is 30000 or less and false otherwise.\n[3 marks]\nc) Write a C# program that accepts marks for 80 students, stores them in an array then computes and\noutputs the total and average.\n[6 marks]",
+    "source_file": "contentitemfile_clp859apw1hypzf01iz7wxq63.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION 3\na) Explain the importance of Base Class Library and Common Language Runtime layers of .NET\nframework to a C# program.\n[2 marks]\nb) Explain the difference between passing parameters by value and by reference to a method.\n\n[2 marks]\nc) Write a declaration statement for a void method called setMarks that accepts three floating-point\nnumber parameters by reference.\n[2 marks]\nd) Write a call statement to the method declared above.\n[2 marks]\ne) Write a program that can be used by a policeman to determine if a vehicle has exceeded the speed\nlimit and to levy a fine. The policeman should enter the vehicles speed and the speed limit. If the\nspeed limit is exceeded by less than 30kph a fine of Kshs. 2500 should be charged. Otherwise a\nfine of Kshs 4000 is charged. Your program should then output (in a suitable format) the vehicle\nspeed, the speed limit, the excess speed and the fine levied.\n[7 marks]",
+    "source_file": "contentitemfile_clp859apw1hypzf01iz7wxq63.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2022",
+    "question": "QUESTION 4\na) Explain three differences between an array and an ArrayList.\n[3 marks]\nb) Making use of object oriented concepts, write a complete C# program that accepts the buying\nprice, transport cost and selling price of item and calculates and outputs the gross profit (profit\nbefore commission), commission to the sales person and net profit (profit after commission). The\nsales people get a commission of 7% if the profit is 1,000 and above and 9% if it is below 1,000.\nYour program must make use of a class called Item with the following members: –\nFields: –\nbuyingPrice, transportCost, SellingPrice, grossProfit, commission, netProfit\nMethods: –\n➢ dataIn( ) – For data input.\n➢ dataOut( ) – For data output\n➢ compute( ) – To perform calculations.\nIn addition, your class should have the following: –\n➢ A constructor that initializes buying price and selling price to specified values.\n➢ A default constructor that initializes buying price and selling price to 0.\n[12 marks]",
+    "source_file": "contentitemfile_clp859apw1hypzf01iz7wxq63.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE (20 marks) Compulsory\na. Explain five components found within a System Case\n(5 marks)\nb. Describe various types of computer memory\n(4 marks)\nc. If a BIOS Error message is displayed on the screen when the computer is switched on, explain\nany two causes of the error and how to address them\n(4 marks)\nd. Classify the different types of software\n(4 marks)\ne. Describe any three types of FileSystems\n(3 marks)\n\nQUESTION TW0 (15 marks)\na. Describe any five (5) types of computers\n(5 marks)\nb. Describe types of system bus\n(3 marks)\nc. Describe the advantages of Unified Extensible Firmware Interface over legacy BIOS\n\n(5 marks)\nd. Describe any two types of file managers\n(2 marks)",
+    "source_file": "contentitemfile_cltybudea06psyixvzhkkrsh2.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE (15 marks)\na. With the aid of diagrams, describe any three Computer Network Topologies\n (6 marks)\nb. Describe various types of computer viruses\n (6 marks)\nc. Describe three reasons for HDD/SSD drive partitioning\n(3 marks)",
+    "source_file": "contentitemfile_cltybudea06psyixvzhkkrsh2.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 marks)\na. Describe the functionalities of computer BIOS\n(4 marks)\nb. Define motherboard chipset\n(1 mark)\nc. Describe four methods of data input and processing\n(4 marks)\nd. Describe any five computer input devices\n(5 marks)\ne. Define computer motherboard.\n(1 mark)",
+    "source_file": "contentitemfile_cltybudea06psyixvzhkkrsh2.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE [20 MARKS]\na) Component Based Systems Development (CBSD) methods place a lot of emphasis on\ncomponent reuse when developing a new system and on developing (‘fabrication’) of new\nreusable components. Identify the main stages which should be provided by a typical CBSD\nmethod.\n\n(6 marks)\nb) Portability is one of the most important software quality characteristics. Given the definition\nof software portability. It has been suggested that portability is influenced by the following\nsub characteristics : Adaptability; Install-ability; Co-existence; Replaceability. Justify this\nclaim.\n\n(4 marks)\nc) To help improve software quality, a development team wishes to choose between either\nintroducing regular code inspections, or else deploying a static analysis tool. Traditional\ntesting techniques would continue in either case. Briefly evaluate these TWO approaches,\nsuggesting how EACH one could be used in the context of a development project, and\nexplaining the potential advantages and disadvantages of each.\n\n(6marks)\nd) Discuss how you might re-plan the project if the lead software architect could also carry out\nthe designing, building, and unit testing of software components.\n\n(4 marks)",
+    "source_file": "contentitemfile_clu163wnw0gglflfdcfgo44y7.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION TWO [15 MARKS]\na) Explain how you would adapt the design of a user interface to accommodate each of the\nfollowing restrictions or impairments:\n\n(8 marks)\n • Visual impairment: someone with poor sight who struggles to read.\n• Restricted cognition: someone who is unable to read text; maybe too young or with some\ndisability.\n• Physical impairment: someone who is unable to type and use a keyboard\n\nb) A small company has developed a specialized product that it configures specially for each\ncustomer. New customers usually have specific requirements to be incorporated into their\nsystem, and they pay for these to be developed. The company has an opportunity to bid for a\nnew contract, which would more than double its customer base. The new customer also\nwishes to have some involvement in the configuration of the system. Explain why, in these\ncircumstances, it might be a good idea for the company owning the software to make it open\nsource .\n\n(7 marks)",
+    "source_file": "contentitemfile_clu163wnw0gglflfdcfgo44y7.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE [15 MARKS]\na) You are developing control software for a car whose latest model will have a network\nconnection. Software upgrades will be delivered over the air rather than at service visits, so\nthat any security vulnerabilities can be patched quickly. This in turn means that you will have\nto provide patches, to deal with both security and safety issues for the next 25 years. Discuss\nhow this is likely to affect your development process, and the implications it will have for\ncosts.\n\n (8 marks)\nb) As a software engineer, you have been given the task of reverse engineering and\nreengineering a large legacy system written in languages which are no longer widely used in\nmodern development with out-of-date and incomplete documentation. Give an assessment of\nthe problems likely to be encountered in this task. Explain how you would go about the\nreverse engineering of this system. Outline the techniques and tools that you could use, and\nthe results that you would expect to produce\n\n (7 marks)",
+    "source_file": "contentitemfile_clu163wnw0gglflfdcfgo44y7.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR [15 MARKS]\na) An automated ticket-issuing system sells rail tickets. Users select their destination and input a\ncredit card and a personal identification number. The rail ticket is issued and their credit card\naccount charged. When the user presses the start button, a menu display of potential\ndestinations is activated, along with a message to the user to select a destination. Once a\ndestination has been selected, users are requested to input their credit card. Its validity is\nchecked and the user is then requested to input a personal identifier. When the credit\ntransaction has been validated, the ticket is issued.\n\n(10 marks)\ni.\nDiscover ambiguities or omissions in the following statement of requirements for part\nof a ticket-issuing system:\nii.\nRewrite the above description and resolve the identified ambiguities in an\nappropriately.\nb) Consider a company that is seeking to develop a web-based system for managing customer\ncomplaints online. As a Software Engineer employed by the company, provide a brief\ndiscussion and evaluation of the three architectural styles as potential software solutions for\nsuch a system.\n\n(5 marks)",
+    "source_file": "contentitemfile_clu163wnw0gglflfdcfgo44y7.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE (20 marks) Compulsory\na.\nDiscuss in detail the writing process used when doing professional writing (9marks)\nb.\nYour proposal describes your proposed plan of work. Describe the four aspects to be\naddressed in this document.\n (6marks)\nc.\n Describe how visual aids assist in professional writing, listing four types of visual aids\n\n (5marks)",
+    "source_file": "contentitemfile_clu175i8w0ht44vrs33j3m160.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION TWO (15 marks)\na.\nBriefly explain four principles of good writing\n (5marks)\nb.\n Discuss three instances in academic writing when referencing is not necessary.\n\n (5marks)\nc.\n Explain the difference between references and inference\n (5marks)",
+    "source_file": "contentitemfile_clu175i8w0ht44vrs33j3m160.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE (15 marks)\na.\nExplain the four fallacies in academic writing\n (5marks)\nb.\n Write short notes on introduction, literature review and abstract.\n (5marks)\nc.\n Discuss three reasons as to why plagiarism is considered misconduct.\n (5marks)",
+    "source_file": "contentitemfile_clu175i8w0ht44vrs33j3m160.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 marks)\na.\nDescribe five ways in which a student can avoid committing acts of plagiarism\n\n (5marks)\nb.\n Discuss the 7 Cs of communication in professional writing\n (5marks)\nc.\n Explain any four types of plagiarism you know of.\n (5marks)",
+    "source_file": "contentitemfile_clu175i8w0ht44vrs33j3m160.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE (20 marks) Compulsory\na). Explain the top down approach to network design citing its advantages over the bottom up\napproach.\n (6marks)\nb). Differentiate between layer 2 and layer 3 of the OSI reference model citing the key network\ndevices that operate in these two layers.\n (6marks)\nc). Network reliability is a plus to a properly designed network. List FOUR issues that assist one\nto achieve network reliability\n(4marks)\nd). Explain why an organization would deploy a hierarchical network design for their network.\n\n(4marks)",
+    "source_file": "contentitemfile_clu6w757o0x0s4vrsekhs0hsb.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION TWO (15 marks)\nYou have been subcontracted by organization ABC to design for them a network consisting of 12\ncomputers. There should be a backbone cable where all the nodes should connect to.\na). Highlight and explain the transmission media and the type of connectors required for this\nnetwork.\n(4marks)\nb). What would be the ideal physical topology for this network? Support your answer with an\nexplanation citing a disadvantage of such a network.\n(4marks)\nc). Which media access control mechanism would be ideal for this network? Explain how the\ncited media access control method works.\n (3marks)\nd). Identify and explain four key factors you would consider when designing this network.\n\n (4marks)",
+    "source_file": "contentitemfile_clu6w757o0x0s4vrsekhs0hsb.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE (15 marks)\na). Discuss the benefits of proper network planning in network design.\n (6 Marks)\nb). Define social engineering and provide a social engineering example a threat actor could use to\ninfiltrate a network.\n(3marks)\nc). Differentiate between startup-config file and running-config file as used in CISCO IOS\nconfigurations.\n (3marks)\nd). Define the following networking terminologies:\ni) Throughput\n (1mark)\nii) Bandwidth\n (1mark)\niii) Latency\n (1mark )",
+    "source_file": "contentitemfile_clu6w757o0x0s4vrsekhs0hsb.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 marks)\na). Highlight three tasks associated with network design and management.\n (3marks)\nb). Cite two advantages of using STP over UTP cables in a network.\n(2marks)\nc). Subnet the Class C IP Address 205.11.2.0 so that you have 30 subnets.\n(10marks)\ni). What is the subnet mask for the maximum number of hosts?\nii). How many hosts can each subnet have?\niii). What is the IP address of host 3 on subnet 2?",
+    "source_file": "contentitemfile_clu6w757o0x0s4vrsekhs0hsb.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE (20MARKS\na) The marketing concept emphasizes satisfying customer needs and wants. Identify five\nstrategies that a marketing manager can use to satisfy the customers’ needs.\n(10mks)\nb) State the four Ps of the marketing mix and describe how you can use them to revive a\nbusiness in decline stage of a product life cycle. Be critical in your answer.\n(10mks)\n\nQUESTION TW0 (15 MARKS)\na) Online marketing research seems to be the wave of the future. Identify five challenges that\nyou see associated with conducting surveys online. Are privacy issues greater with online\nsurveys than with other forms of administering surveys, such as phone, face-to-face, or mail?\nJustify your answer.\n(10mks)\nb) Describe a situation you have experienced in online buying. What is the key challenge that\nyou may have encountered?\n(5mks)",
+    "source_file": "contentitemfile_clu709rp116yyyixv32ti32mv.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE (15 MARKS)\na) Discuss how marketing environments affect the performance of institutions of higher learning\nin Kenya. Give practical examples.\n(12mks)\nb) How the marketing knowledge that you have learnt in this unit help you in job search after\ngraduation?\n(3mks)",
+    "source_file": "contentitemfile_clu709rp116yyyixv32ti32mv.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR. (15 MARKS)\na) Marketing benefits organizations, customers, and society. Explain how an organization like\nKCAU benefits the community in which it operates as well as society at large.\n(10mks)\nb) Define internal marketing and explain how an organization can make it more effective.\n\n(5mks)",
+    "source_file": "contentitemfile_clu709rp116yyyixv32ti32mv.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "KCA001",
+    "year": "2023",
+    "question": "QUESTION ONE (20 marks) Compulsory\na.\nReliable information must come from dependable sources. Discuss at least THREE\ncriteria to determine the reliability of information resources\n (9marks)\nb.\nExplain three components of life skills\n (6marks)\nc.\nHIV and AIDS is a global health challenge, Discuss the methods of prevention from the\nrisk of contracting HIV/AIDs (5marks)",
+    "source_file": "contentitemfile_clu70kgxd10k64vrs6joydvfg.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "KCA001",
+    "year": "2023",
+    "question": "QUESTION TWO (15 marks)\na.\nExplain your understanding of the concept of information Literacy\n (5marks)\nb.\nGonorrhoea is a common sexually transmitted infection (STI) caused by a bacteria called\nNeisseria gonorrhoeae. Discuss the factors affecting transmission of gonorrhea among\nuniversity students and community\n (5marks)\nc.\n Explain five common challenges people face when trying to manage their time effectively\n\n (5marks)",
+    "source_file": "contentitemfile_clu70kgxd10k64vrs6joydvfg.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "KCA001",
+    "year": "2023",
+    "question": "QUESTION THREE (15 marks)\na.\nA study done on stress prevalence among students in Kenya in January 2023 revealed that\n61.6% of the students have moderate stress. Discuss the signs and symptoms of stress.\n\n (5marks)\n\nb.\n Alcohol and drug abuse is rampant among university students. Explain the factors that\ncontribute to drug and alcohol and substance addiction.\n(5marks)\nc.\n List FIVE qualities of an information literate person\n (5marks)",
+    "source_file": "contentitemfile_clu70kgxd10k64vrs6joydvfg.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "KCA001",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 marks)\na.\nPlagiarism is an academic dishonesty. Discuss three ways that an undergraduate student\ncan prevent plagiarism.\n (5marks)\nb.\n Explain Three reasons why HIV virus is so dangerous in the body\n (5marks)\nc.\n Giving relevant examples, explain the role of Government in controlling lifestyle diseases\nin the society\n (5marks)",
+    "source_file": "contentitemfile_clu70kgxd10k64vrs6joydvfg.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE [20 MARKS]\na) An organization wishes to develop a Management Information System (MIS)that will store all the\norganization’s data in a data warehouse. This MIS will provide various reporting functions, that\ndisplays information in a highly visual manner via graphs and charts. Discuss which design\ntechniques could be used for the following aspects of the management information system:\ni).\nThe data to be stored in the data warehouse\nii).\nThe reporting functions\niii).\nThe user interface.\n(6 marks)\nb) Online shopping/e-commerce web sites often present content in the form of images, showing a\nrange of products that can be viewed and purchased using any device that connects to the World\nWide Web. As the test manager outline how you could prove that the software meets the required\nspecification\n (5 marks)\nc) A small company has developed a specialized product that it configures specially for each\ncustomer. New customers usually have specific requirements to be incorporated into their system,\nand they pay for these to be developed. The company has an opportunity to bid for a new contract,\nwhich would more than double its customer base. The new customer also wishes to have some\ninvolvement in the configuration of the system. Explain why, in these circumstances, it might be a\ngood idea for the company owning the software to make it open source.\n(5 marks)\nd) A trainee programmer at Touch graphics Ltd, would like to implement client –server architecture\nin one of the customer’s application. What are the potential threats his supervisor should advise\nhim to be aware of?\n(4 marks)",
+    "source_file": "contentitemfile_clxn6srh41mwcz3opl62pmqxi.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION TWO [15 MARKS]\na) An automated ticket-issuing system sells rail tickets. Users select their destination and input a\ncredit card and a personal identification number. The rail ticket is issued and their credit card\naccount charged.\n\nWhen the user presses the start button, a menu display of potential destinations is activated, along\nwith a message to the user to select a destination. Once a destination has been selected, users are\nrequested to input their credit card. Its validity is checked and the user is then requested to input a\npersonal identifier. When the credit transaction has been validated, the ticket is issued.\n\n (8 marks)\ni).\nDiscover ambiguities or omissions in the following statement of requirements for part\nof a ticket-issuing system:\nii).\nRewrite the above description and resolve the identified ambiguities in an appropriately.\nb) As a software engineer, you have been given the task of reverse engineering and reengineering a\nlarge legacy system written in languages which are no longer widely used in modern development\nwith out-of-date and incomplete documentation. Give an assessment of the problems likely to be\nencountered in this task. Explain how you would go about the reverse engineering of this system.\n\n(5 marks)\nc) Explain from a design point of view why it is desirable to have a responsive user interface when\nusers browse a web site using a variety of devices.\n(2 marks)",
+    "source_file": "contentitemfile_clxn6srh41mwcz3opl62pmqxi.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE [15 MARKS]\na) A company wishes to convert a desktop application interacting with a local database to a web-\nbased database application where the database will be on a remote server and users will access the\napplication via a web browser. Discuss the high level architecture of both systems and indicate\nwhat steps you would undertake to achieve the necessary conversion.\n(5 marks)\nb) Explain the difference between open source and closed source software comparing and contrasting\nthese two approaches to software provision.\n(4 marks)\nc) Discuss the importance of metrics and measurement in evaluating the effectiveness of the software\ndevelopment process\n(2 marks)\nd) End user testing of a software product that is intended to be used by a large variety of customers\ncan be tested using a range of testing techniques. Using examples explain any TWO techniques that\nyou might use.\n(4 marks)",
+    "source_file": "contentitemfile_clxn6srh41mwcz3opl62pmqxi.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR [15 MARKS]\na) A city's emergency management agency needs to improve its coordination and response efforts\nduring natural disasters and public emergencies that integrates real-time data streams, geographic\ninformation systems (GIS), and predictive analytics to facilitate emergency planning, resource\nallocation, and situational awareness. In this context, define the functional and non-functional\nrequirements. Your answer should include pre- and postconditions. State all assumptions made.\n\n(8 marks)\nb) Describe the principles of continuous integration (CI) and continuous testing (CT) in agile and\nDevOps environments\n(4 marks)\nc) Discuss the benefits of using containerization technology in software development\n(3 marks)",
+    "source_file": "contentitemfile_clxn6srh41mwcz3opl62pmqxi.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION ONE (20Marks) Compulsory\na) Describe the steps involved in a typical computer forensic investigation process\n(4Marks)\nb) Discuss the importance of utilizing up-to-date computer forensics software and hardware tools\nin forensic investigations.\n\n(4Marks)\nc) Evaluate the requirements for setting up a computer forensics laboratory\n\n(4Marks)\nd) Explain the concept of network forensics and its importance in investigating cybercrimes\n\n(4Marks)\ne) Outline and explain the qualifications and responsibilities of a computer forensics expert\nwitness\n\n(4Marks)",
+    "source_file": "contentitemfile_clzb2v7d10mgusw7kjmvqonf4.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION TWO (15Marks)\na) Discuss the tools and techniques used for extracting data from mobile devices, analyzing app\ndata, and recovering deleted data.\n\n(5Marks)\nb) Compare and contrast different types of computer forensics tools for disk imaging, and memory\nanalysis by giving their suitability for specific forensic tasks.\n (10 Marks)",
+    "source_file": "contentitemfile_clzb2v7d10mgusw7kjmvqonf4.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION THREE (15Marks)\na) Evaluate different data acquisition methods in computer forensics and their advantages and\ndisadvantages.\n\n(5Marks)\nb) Elucidate the challenges associated with conducting email investigations in computer forensics.\n\n(5Marks)\nc) Explain the Three (3) methods used for file recovery in computer forensics\n\n(5Marks)",
+    "source_file": "contentitemfile_clzb2v7d10mgusw7kjmvqonf4.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2023",
+    "question": "QUESTION FOUR (15Marks)\na) Explain key considerations when processing evidence for both judicial and corporate services\n\n(5Marks)\nb) Using relevant examples, clarify the different categories of computer forensic tasks (10Marks)",
+    "source_file": "contentitemfile_clzb2v7d10mgusw7kjmvqonf4.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2022",
+    "question": "QUESTION ONE (20 MARKS) Compulsory\na) Define a data structure.\n\n[1 marks]\nb) List and describe three Characteristics of a Data Structure\n\n[3 marks]\nc) Explain two linear data structures that are concerned with ordering of data elements\n[2 marks]\nd) Construct a directed graph from the adjacency list provided below.\n\n[3 marks]\n\ne) Write an algorithm to perform a Depth First Search (DFS) and use the written pseudocode to\ndo a DFS of the Directed graph drawn in (d) above.\n\n[3 marks]\nf)\nGive the Big Oh Notation for the following common growth rate functions of an algorithm\n\n[8 marks]\n\n2\n\nConstant time\n−\nLogarithmic time\n−\nLinear time\n−\nn log n time\n−\nQuadratic time\n−\nCubic time\n−\nPolynomial time\n−\nExponential time\n−",
+    "source_file": "contentitemfile_clzh3on9x2ofpbni858pdq3h4.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2022",
+    "question": "QUESTION TWO (15 MARKS)\na) With the aid of a diagram to illustrate, define an abstract data type (ADT).\n[2 marks]\nb) Justify why Implementation of algorithms is separate from ADT.\n\n[3 marks]\nc) Consider LA is a linear array with N elements and K is a positive integer such that K<=N.\nWrite an algorithm to delete an element available at the Kth position of LA.\n[5 marks]\nd) Given the following data from a list collection :\nIndex: 0 1 2 3 4 5 6 7 8\nElement: 12 18 9 11 32 14 13 19 7\nWrite an algorithm that finds and retrieves the data at index 6 in the least possible time.\n\n[5 marks]",
+    "source_file": "contentitemfile_clzh3on9x2ofpbni858pdq3h4.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2022",
+    "question": "QUESTION THREE (15 MARKS)\na) List any two algorithms that are based on the divide and conquer approach.\n\n[ 2 marks]\nb) Using the counting coins problem explain greedy algorithm\n\n[3 mark]\nc) List the four desirable features of an algorithm\n\n[2 marks]\nd) Given an array of ten integers:5,3,8,9,1,7,0,2,6,4.\nRequired, perform and display the output of :\ni.\nBubble sort\n\n[2 marks]\nii.\nInsertion sort\n\n[2 marks]\ne) Convert the infix expression (A + B) * C - (D - E) * (F + G)\ni.\nPostfix\nii.\nPrefix expression.\n\n[4 marks]\n\n3",
+    "source_file": "contentitemfile_clzh3on9x2ofpbni858pdq3h4.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2022",
+    "question": "QUESTION FOUR(15 MARKS)\na) Given the following data items [ 56,64,40,59,34,72,and 47]\n\ni.\nConstruct a binary tree\n\n[2 marks]\nii.\nState the degree of the binary tree constructed above\n\n[1 marks]\niii.\nWrite the algorithm to Perform a post order transversal for the binary tree\ncreated above and write the results.\n\n[3 marks]\nConsider the following operations of a stack of shortcut keys for a word processing application\nPush (Ctr +A), Push (Ctrl + Alt + H), Push (Ctr + Enter), Push (Shift+ Enter), Push\n(Ctr + Shift + Enter), Pop(), Peek(), and Size()\nb) You are required to\n\ni.\nDraw the resultant stack following these operations performed on a word processor.\n[3 marks]\nii.\nWrite an algorithm that returns the output of the peek and size operations.\n\n[2 marks]\nc) John wishes to store a set of numbers = {0,1,2,4,5,7} into a hash table of size 5.Assume that\nhe has a hash function H, such that H(x) = x%5. Use the Hash Function to map the data into\nthe associative array and draw the resultant mapping.\n\n[4 marks]",
+    "source_file": "contentitemfile_clzh3on9x2ofpbni858pdq3h4.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TO100",
+    "year": "2023",
+    "question": "QUESTION ONE (20 MARKS) COMPULSORY\na) Discuss THREE main characteristics of periodic sine waves.\n\n(6 Marks)\nb) For each of the following scenarios, state whether a local loop or a trunk should be used:\ni.\nThe connection from your home to the local telephone company.\n (1 Mark)\nii.\nThe connection between any’s PBX and the telephone company\n\n(1 Mark)\niii.\nThe connection between two central offices\n\n(1 Mark)\nc) You are using your cell phone while standing next to someone using her cell phone. Describe\nhow the cellular system distinguishes the two signals.\n\n(3 Marks)\nd) A company has two offices located approximately 1 mile apart. Data needs to be transferred\nbetween the two offices at speeds up to 100 Mbps. Describe one possible solution for\ninterconnecting the two buildings.\n\n (4 Marks)\ne) Distinguish between Nyquist and Shannon theorems as used in data communication\n\n(4 Marks)",
+    "source_file": "contentitemfile_clzh49za34eqtevpqxki4mkvw.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TO100",
+    "year": "2023",
+    "question": "QUESTION TWO (15 MARKS)\na) Describe the need for switching and differentiate between a circuit-switched and a packet-\nswitched network.\n\n(5 Marks)\nb) Explain any TWO characteristics of a Digital signal.\n\n(4 Marks)\n\nc) The data sequence 101110101 is to be encoded. Draw the resultant waveforms for each of the\nfollowing encoding schemes:\ni.\nUnipolar NRZ\n\n(2 Marks)\nii.\nBipolar AMI\n\n(2 Marks)\niii.\nPolar NRZ\n\n(2 Marks)",
+    "source_file": "contentitemfile_clzh49za34eqtevpqxki4mkvw.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TO100",
+    "year": "2023",
+    "question": "QUESTION THREE (15 MARKS)\na) A company currently has a telephone system and a separate system of local area networks. It is\nthinking about converting its telephone system to VoiP, and running both voice and data over\nthe system of local area networks. Explain the term VOIP and outline its benefits\n\n(5 Marks)\nb) Using diagrams in each case, distinguish between statistical TDM and FDM multiplexing\ntechniques.\n\n (6 Marks)\n c) Given the frequencies listed below, calculate the corresponding periods.\ni)\n24Hz\n\n(2 Marks)\nii)\n 8 MHz\n\n(2 Marks)",
+    "source_file": "contentitemfile_clzh49za34eqtevpqxki4mkvw.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "TO100",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 MARKS)\na) A signal starts at point X, as it travels to point Y, it loses 8 dB. At point Y, the signal is boosted\nby 10 dB. As the signal travels to point Z, it loses 7 dB. What is the dB strength of the signal at\npoint Z?\n\n(3 Marks)\nb) Define the term noise as applied in telecommunication.\n\n(2 Marks)\nc) Differentiate between modulation noise and thermal noise as applied in telecommunication\nsystems\n\n(4 Marks)\nd) You are walking down the street, and your cell phone rings. Describe the sequence of events\nthat allowed a person with a conventional telephone to call you on your cell phone.\n\n(6 Marks)",
+    "source_file": "contentitemfile_clzh49za34eqtevpqxki4mkvw.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "IF200",
+    "year": "2023",
+    "question": "QUESTION ONE [20 MARKS]\na) An organisation wishes to develop a Management Information System (MIS)that will store all the\norganisation’s data in a data warehouse. This MIS will provide various reporting functions, that\ndisplays information in a highly visual manner via graphs and charts. Discuss which design techniques\ncould be used for the following aspects of the management information system:\ni). The data to be stored in the data warehouse;\nii). The reporting functions;\niii). iii) The user interface.\n(3 marks)\nb) Online shopping/e-commerce web sites often present content in the form of images, showing a\nrange of products that can be viewed and purchased using any device that connects to the World Wide\nWeb. As the test manager outline how you could prove that the software meets the required\nspecification\n (4 marks)\nc)A small company has developed a specialized product that it configures specially for each customer.\nNew customers usually have specific requirements to be incorporated into their system, and they pay\nfor these to be developed. The company has an opportunity to bid for a new contract, which would\nmore than double its customer base. The new customer also wishes to have some involvement in the\nconfiguration of the system. Explain why, in these circumstances, it might be a good idea for the\ncompany owning the software to make it open source.\n(4 marks)\nd) ISO standards define a set of software quality characteristics and sub-characteristics. They specify\nwhich quality characteristics are influenced by which sub-characteristics. Explain why highly reliable\nsystems tend to be less efficient.\n(4 marks)\ne) Discuss relevance of the following practices in current software development practices (5 marks)\n\ni)\nContinuous integration / Continuous Development\nii)\nLow Code/ No code\niii)\nReactive Programming\niv)\nAutomated Testing\nv)\nContainerization",
+    "source_file": "contentitemfile_cm3mm6t9m3bktdd2ha8166u37.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "IF200",
+    "year": "2023",
+    "question": "QUESTION TWO [15 MARKS]\nYour company is developing software for an on-line stock-trading service. The software contains the\nfollowing subsystems: a database of stockholder accounts, a web-based client through which\ncustomers place orders and request stock prices, an ordering server which processes stock transactions\nas requested by clients, and a networking system for communicating with an external stock price server\n(for up-to-the-minute stock prices). For each of the following test cases, indicate whether it should be\nrun during unit, integration, or system testing. If you feel a test should be run in more than one testing\nphase, state the phases and justify your answer.\n (15 Marks)\ni) Assuming the server is up, do stockholders receive price quotes within 3 seconds even if 200\nstockholders request quotes simultaneously?\nii) Does the ordering server accept an order only if the stockholder’s account has sufficient funds\nto cover the order?\niii) Does the client refuse orders for stocks that do not exist?\niv) If the server receives an order to purchase stock and the stockholder has sufficient funds, is the\nstock eventually purchased?\nv) Once a stockholder’s account has been removed from the account database, is that stockholder\nprohibited from placing orders through the software?",
+    "source_file": "contentitemfile_cm3mm6t9m3bktdd2ha8166u37.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "IF200",
+    "year": "2023",
+    "question": "QUESTION THREE [15 MARKS]\na) A company wishes to convert a desktop application interacting with a local database to a web-\nbased database application where the database will be on a remote server and users will access\nthe application via a web browser. Discuss the high level architecture of both systems and\nindicate what steps you would undertake to achieve the necessary conversion.\n(5 marks)\nb) Adopting and then tailoring a software process to meet your team's needs is an important and\ndifficult decision, one that is critical to your project's success. There is a myriad of choices,\nranging from prescriptive processes to agile software processes. There is a vast wealth of\nmaterial written about these methodologies. Explain how can you tell whether a methodology\nwill work for you and in particular, how do you determine whether an agile development\nmethodology works within your environment?\n(5 marks)\n\nc) A trainee programmer at Touch graphics Ltd, would like to implement client –server\narchitecture in one of the customers applications. What are the potential threats his supervisor\nshould advise him to be aware of\n(5 marks)",
+    "source_file": "contentitemfile_cm3mm6t9m3bktdd2ha8166u37.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "IF200",
+    "year": "2023",
+    "question": "QUESTION FOUR [15 MARKS]\na) A city's emergency management agency needs to improve its coordination and response efforts\nduring natural disasters and public emergencies that integrates real-time data streams,\ngeographic information systems (GIS), and predictive analytics to facilitate emergency\nplanning, resource allocation, and situational awareness. In this context, define the functional\nand non-functional requirements. Your answer should include pre- and postconditions. State all\nassumptions made.\n(7 marks)\nb) Using a booking system for an event management system, explain in detail the development of\nthis system using the following phases\n(8 marks)\ni).\nInception phase\nii).\nElaboration phase\niii).\nConstruction phase\niv).\nTransition phase",
+    "source_file": "contentitemfile_cm3mm6t9m3bktdd2ha8166u37.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT300",
+    "year": "2023",
+    "question": "QUESTION ONE (20 MARKS) Compulsory\nYou have been hired by KCAU as an expert, to educate its staff about data warehousing and\nmining.\ni.\nExplain any one benefit of data mining.\n\n(1 Mark)\nii.\nDescribe two known approaches for developing a data warehouse.\n(4 Marks)\niii.\nKCAU wishes to implement a data warehouse, however they plan to roll it out from\none school at a time. If it works well, the management will be onboarded. Recommend\nthe design approach suitable for their needs. Justify your choice.\n(3 Marks)\niv.\nExplain to them how to distinguish the data warehouse from the operational database\nsystems. Use any four key characteristics\n\n(4 Marks)\nb) Describe multidimensional data, as applied to data warehousing.\n\n(2 Marks)\nc) Loading data from multiple sources into a data warehouse is made possible thought the ETL\nprocess. Discuss ETL in this context.\n\n(6 Marks)",
+    "source_file": "contentitemfile_cm3msoele17ql5ttezamp1o5w.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT300",
+    "year": "2023",
+    "question": "QUESTION TWO (15 MARKS)\na) During data warehouse design, we perform data modelling. At this stage the data warehouse\nschema is defined. Explain a schema and hence discuss three major types of schema. Support\nyour answer with simple diagrams.\n\n(10 Marks)\nb) Define data mining and hence discuss any two distinct application areas of data Mining.\n\n(5 Marks)",
+    "source_file": "contentitemfile_cm3msoele17ql5ttezamp1o5w.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT300",
+    "year": "2023",
+    "question": "QUESTION THREE (15 MARKS)\na) Describe big data and hence explain any five properties of big data.\n(5 Marks)\n\n2\n\nb) Explain the following in the context of data mining. In each case, support your answer\nwith an example task or strategy.\ni.\nData Preprocessing.\n\n(3 Marks)\nii.\nData Reduction.\n\n(3 Marks)\nc) Discuss any two known challenges in data mining.\n\n(4 Marks)",
+    "source_file": "contentitemfile_cm3msoele17ql5ttezamp1o5w.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT300",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 MARKS)\na) Explain web content mining.\n\n(2 Marks)\nb) Tasks in data mining generally may be classified in six common classes of tasks. Discuss\nany three such classes.\n\n(6 Marks)\nc) Data mining is also known as knowledge discovery in databases. In the light of the above,\ndiscuss the main steps in KDD.\n\n(7 Marks)",
+    "source_file": "contentitemfile_cm3msoele17ql5ttezamp1o5w.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2023",
+    "question": "QUESTION ONE (20 MARKS) Compulsory\na) Define the following terms: [ 2 Marks] i. Parameter\nii.\nStatistic\niii.\nCensus\nb) You have conducted a market survey with a sample size of 60 regarding the acceptability of\nthe new course launched at ZETECH. The scores of the respondents on the appropriate scale\nare as follows:\n 91 88\n91 90\n97\n92\n76\n90\n80\n92\n85 79 91 87\n93\n\n83\n88\n83 84\n92\n90\n81\n97\n80\n91\n83 77 93 80\n88\n\n91\n85\n71 82\n88\n70\n91\n86\n83\n86\n89 86 93 83\n93\n\n80\n72\n92 87\n87\n83\n90\n84\n72\n98\n94 90 82 73\n88\ni. Prepare a frequency table\n\n[3 marks] ii.\n Present the same information as a histogram\n\n[1 marks]\n\niii.\nDraw frequency polygon\n [1 marks]\nc) A random variable X has the probability distribution shown below,\n\nX\n1\n2\n3\n4\n5\n\nP(X=x) 7c\n5c\n4c\n3c\nc\n\nFind the values of the constant c hence, determine the mean and variance of X\n[3 marks]\nd) Given P(A) =0.2, P(B) = 0.8 and P (A B) =0.2, find P(A B)\n[3 marks]\ne) Giving examples, explain two sources of data\n\n[3 marks]\nf) In the table below, the X column shows scores on the aptitude test. Similarly, the y column\nshows statistics grades.\nX\n60\n70\n77\n80\n65\nY\n55\n88\n65\n72\n82\nConstruct a linear regression equation that best predicts statistics performance, based on math\naptitude scores? [4 marks]",
+    "source_file": "contentitemfile_cm3mti5zm6gt0urtrlbuja88r.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2023",
+    "question": "QUESTION TWO (15 MARKS)\na) Let variable X be the number of hamburgers consumed at a cook-out, and variable Y is the\nnumber of beers consumed. Develop a regression equation to predict how many beers a person\nwill consume given that we know how many hamburgers that person will consume.\n[5 marks]\n\nSubject\n1\n2\n3\n4\n5\nHamburgers\n5\n4\n3\n2\n1\nBeers\n8\n10\n4\n6\n2\nb) Suppose x if a probability mass function is given by 𝑓(𝑥) = {𝑘𝑥 𝑓𝑜𝑟 𝑥 = 1,2,3,4\n0 , 𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒\n Find the value of K and mean of the distribution\n\n[5 marks]\nc) The discrete random variable X has a probability distribution\nX\n1\n2\n3\n4\n5\nP(X)\n0.15\n0.1\n0.25\na\n0.2\n Determine\n(i)\nthe value of a\n\n[1 mark]\n(ii)\nExpectation E[X]\n\n[2 marks]\n(iii)\nVariance\n\n[2 marks]",
+    "source_file": "contentitemfile_cm3mti5zm6gt0urtrlbuja88r.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2023",
+    "question": "QUESTION THREE (15 MARKS)\na) The following figures relate to the size of capital of 285 companies.\n\nCapital(Ksh) 1-5\n6-10\n11-15\n16-20\n21-25\n26-30\n31-35\nNo\nof\nCompanies\n20\n27\n29\n38\n48\n53\n70\n\nCompute the Karl Pearson’s coefficient of skewness and interpret the results\n[5 marks]\nb) The data given below are obtained from student records. Grade point average(X) and Graduate\nrecord exam score(y). Calculate the spearman rank difference correlation coefficient. [5 marks]\nSubject 1\n2\n3\n4\n5\n6\n7\n8\n9\n10\nX\n8.3\n8.6\n9.2\n9.8\n8.0\n7.8\n9.4\n9.0\n7.2\n8.6\nY\n2300\n2250\n2380\n2400\n2000\n2100\n2360\n2350\n2000\n2260\nc) A fair coin is tossed 8 times. Find the probability of obtaining\ni.\nExactly 4 heads\n\n[1 mark]\nii.\nAt least 6 heads\n\n[2 marks]\niii.\nAtleast one head\n\n[2\nmarks]",
+    "source_file": "contentitemfile_cm3mti5zm6gt0urtrlbuja88r.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2023",
+    "question": "QUESTION FOUR (15 MARKS)\na) Three companies A, B and C supply 10%, 20% and 70% of the notebooks to a school. Past\nexperience shows that 3%, 2% and 1% of the notebooks produced by these companies are\ndefective respectively. If a notebook was found to be defective, what is the probability that the\nnotebook was supplied by C?\n\n[5 marks] b)\nEstimate the mean and standard deviation for the frequency table below\n[5 marks]\n\nClass\n5-9\n10-14\n15-19\n20-24\n25-29\n30-34\n35-39\nFrequency 5\n12\n32\n40\n16\n9\n6\nc) The following table gives the amount of time (in minutes) spent on the internet each evening by\na group of 10 students. Compute moment coefficient of skewness for the above frequency\ndistribution. [5marks]\n\nTime spent on internet\n2−4\n5−7\n8−10\n11−13\nNo. of students (𝑓)\n2\n3\n4\n1",
+    "source_file": "contentitemfile_cm3mti5zm6gt0urtrlbuja88r.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS) Compulsory\na) Differentiate between qualitative and quantitative variables giving examples [2 marks]\nb) Given the data 3, 14, 8, 9, 15, 18, 2 Calculate the mode, median, and standard deviation\n\n [3 marks]\nc) Suppose a researcher wished to do a study on the ages of the top 50 wealthiest people in\nthe world. The researcher first would have to get the data on the ages of the people. In\nthis case, these ages are listed in Forbes Magazine. 49 57 38 73 81 74 59 76 65 69 54 56\n69 68 78 65 85 49 69 61 48 81 68 37 43 78 82 43 64 67 52 56 81 77 79 85 40 85 59 80\n60 71 57 61 69 61 83 90 87 74\ni)\nOrganize the data into a grouped frequency table [4 marks]\nd) A and B are two events such that P(A)=1/2, P(B)=1/3, 𝑃(𝐴𝑈𝐵) = 1/3 . Find\n i)𝑃(𝐴𝑛𝐵), P(A/B),P(B’/A) [2 marks]\n ii) Are the events A and B indepent? Justify your answer. [1 mark]\ne) In a science class, there are 100 students of whom 40 take physics, 70 take biology and\n30 take both. Determine the probability that a student chosen at random takes physics or\nbiology?\n\n [2marks]\nf) The following table gives the amount of time (in minutes) spent on the internet each\nevening by a group of 10 students. Compute moment coefficient of skewness and\nkurtosis for the above frequency distribution. [6 marks]\n\nTime spent on internet\n2 −4\n5 −7\n8 −10\n11 −13\n\nNo. of students (𝑓)\n3\n2\n1\n4",
+    "source_file": "contentitemfile_cm8d3ye4a0h6i84okrlrmt80o.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) A bag holds 6 blue and 9 red balls. A girl picked 2 balls at random one a time without\nreplacement. Determine the probability that\ni.\nBoth were green ball\n\n[1marks]\nii.\nThere was one green and one red ball\n\n[2marks]\nb) A fair coin is tossed 10 times. Find the probability of obtaining\ni.\nExactly 4 heads\n\n[2 marks]\nii.\nAt least 6 heads\n\n[2marks]\nc) In the table below, the X column shows scores on the aptitude test. Similarly, the y\ncolumn shows statistics grades.\nX\n60\n70\n77\n80\n65\nY\n55\n88\n65\n72\n82\nConstruct a linear regression equation that best predicts statistics performance, based on\n\nmath aptitude scores?\n\n[8 marks]",
+    "source_file": "contentitemfile_cm8d3ye4a0h6i84okrlrmt80o.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) The scores for nine students in English and Maths are as follows:\nEnglish\n55\n74\n44\n70\n60\n63\n57\n79\n75\n60\nMaths\n65\n69\n39\n59\n64\n55\n58\n76\n66\n62\n compute and interprete\ni.\nthe Spearman rank correlation.\n [5 marks]\nii.\nthe pearson correlation coefficient\n [5 marks]\nb) Estimate the mean and standard deviation for the frequency table [5 marks]\n\nClass\n5-9\n10-14\n15-19\n20-24\n25-29\n30-34\n35-39\nFrequency 5\n12\n32\n40\n16\n9\n6",
+    "source_file": "contentitemfile_cm8d3ye4a0h6i84okrlrmt80o.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BUSS202",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\nc) Estimate the lower and upper quartiles , the 7th decile and 72nd percentile for the frequency\ntable\n [10 marks]\n\nClasss\n1-4\n5-8\n9-12\n13-16\n17-20\n21-24\nFrequency\n10\n14\n20\n16\n12\n8\n\nd) The discrete random variable X has a probability distribution\nX\n0\n1\n2\n3\n4\n5\nP(X)\n0.05\n0.1\nt\n0.2\n0.25\n0.1\n\n Determine\n(i)\nthe value of t\n [2marks]\n(ii)\nExpectation E[X]\n [3marks]",
+    "source_file": "contentitemfile_cm8d3ye4a0h6i84okrlrmt80o.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE (20 Marks) Compulsory\na) Discuss the importance of professional institutions and codes of conduct in the field of Information\nSystems.\n\n(6 Marks)\nb) Ethical issues in Information Technology have become more significant in recent years. Identify and\ndiscuss four major ethical concerns in IT today.\n\n(8 Marks)\nc) Explain the legal standing of different types of organizations and their impact on the implementation\nof information systems.\n\n(6 Marks)",
+    "source_file": "contentitemfile_cmdej4u2g3p03cl0jvl9tyg2m.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO (15 Marks)\na) Computers have revolutionized human systems across different sectors. Analyze the role of\ncomputers in three of the following areas:\ni) Healthcare\nii) Banking\niii) Education\niv) Office Automation\nv) Factory Automation\n(9 Marks)\nb) Discuss three key data security and privacy issues that organizations face in today’s digital\nenvironment.\n\n(6 Marks)",
+    "source_file": "contentitemfile_cmdej4u2g3p03cl0jvl9tyg2m.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE (15 Marks)\na) Explain how globalization has influenced Information Technology and the associated legal and\nethical considerations.\n\n(6 Marks)\nb) Computer crime is a growing concern in today’s digital world. Identify and describe three types of\ncomputer crimes, providing relevant examples.\n\n(9 Marks)",
+    "source_file": "contentitemfile_cmdej4u2g3p03cl0jvl9tyg2m.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 Marks)\na) Intellectual property issues and laws are essential in IT. Explain the significance of intellectual\nproperty laws in protecting software development and digital content.\n\n(7 Marks)\nb) Discuss the application of Artificial Intelligence and Virtual Reality in professional and social\nenvironments. Highlight the ethical and legal challenges associated with these technologies.\n(8 Marks)",
+    "source_file": "contentitemfile_cmdej4u2g3p03cl0jvl9tyg2m.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS)\na. Explain the main settings that control exposure\n\n(5 marks)\nb. Discuss the ISO effects on the brightness and noise level in an image\n (5 marks)\nc. Explain the effect of different shutter speeds on motion in photography\n(5 marks)\nd. Assuming a photo has 1024 rows X 1024 columns of pixels, calculate the size of\nmemory required to store the image using 8bps depth in Megabytes\n(5 marks)",
+    "source_file": "contentitemfile_cmdg5ct3h000shj19o0cqfjz7.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION TWO (15MARKS)\na. Explain the following terms\n\n(6 marks)\n\ni.\nRule of Thirds\nii.\nColour balance\niii.\nTone curve\nb. Discuss the benefits of shooting in RAW when it comes to editing\n(5 marks)\nc. An audio file occupies 11680KB. If it's recorded at (96khz, 16-bit, and stereo). What is\nthe duration in minutes\n\n(4 marks)\n\nPage 2 of 2",
+    "source_file": "contentitemfile_cmdg5ct3h000shj19o0cqfjz7.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na. A photographer is shooting at 1/500 sec but wants to allow twice as much light to reach the\nsensor. What should the new shutter speed be\n\n(5 marks)\nb. With camera what quality continuously improving and technology becoming user-friendly,\ndon’t you think the professional photographer is soon going to be a thing of the past?\nDiscuss.\n\n(5 marks)\nc. Let's suppose that the settings for a perfect picture are: ISO 100, f5.6, 1/250. To have a\ngreater depth of field, should you do\n\n(5 marks)",
+    "source_file": "contentitemfile_cmdg5ct3h000shj19o0cqfjz7.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na. If a lens has a focal length of 50mm, the aperture is set at f/2.8, and the subject is\n2 meters away, what happens to the depth of field when the aperture is changed to f/11\n\n(5 marks)\nb. Photographer wants to print an image at 300 DPI (dots per inch) and the image\nresolution is 4500 × 3000 pixels. What is the largest possible print size in inches\n\n(5 marks)\nc. Explain the exposure triangle and how it affects an image.\n\n(5 marks)",
+    "source_file": "contentitemfile_cmdg5ct3h000shj19o0cqfjz7.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF150",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS) COMPULSORY\na) Explain the reasons for choosing each of the following coding methods with respect to\ntelecommunication; giving an example in each case:\ni.\nDigital data to analogue signal\n\n(2 Marks)\nii.\nAnalog data to digital signal\n\n(2 Marks)\nb) Distinguish between data rate and baud rate as applied in data transmission.\n(4 Marks)\nc) An upcoming telecommunication company intends to introduce digital encoding schemes\nfor transmitting data. Explain THREE factors that should be considered when determining\nthe type of scheme to use.\n\n(6 Marks)\nd) Define Internet of Things (IoT), and explain how it is related to telecommunications.\n(2 Marks)\ne) Explain why the public switched telephone network (PSTN) is inherently circuit switched\nwhile data network such as the internet is inherently packet switched.\n(4 Marks)\n\nPage 2 of 3",
+    "source_file": "contentitemfile_cmdjywko23himtpmsq64hk7pa.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF150",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) State TWO:\ni.\nApplications of satellite\n\n(2 Marks)\nii.\nDemerits associated with satellite communication\n\n(4 Marks)\nb) The figure below shows a two stage amplifier interconnected by line links. Determine the\noverall gain of the amplifier.\n\n(3 Marks)\n\nc) Switching has been described as the heart of automatic telephone system. Mention and\nexplain THREE types of switching used in telephony.\n\n (6 Marks)",
+    "source_file": "contentitemfile_cmdjywko23himtpmsq64hk7pa.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF150",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) Describe TWO criteria which a spread spectrum communication system must satisfy.\n (2 Marks)\nb) Identify the multiplexing technique represented by the diagram below\n (2 Marks)\n\nc) Explain the function of the guard band.\n\n(2 Marks)\nd) Consider four frequency bands, each with a known finite bandwidth of 150 kHz and\nseparated by three guard bands of 10 kHz each. Determine the total bandwidth of these\nspectrum.\n\n(3 Marks)\ne) Discuss THREE security concerns associated with the deployment of 5G networks.\n(6 Marks)\n\nPage 3 of 3",
+    "source_file": "contentitemfile_cmdjywko23himtpmsq64hk7pa.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "OF150",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na) Given the following carrier and message signals, sketch the waveforms in each of the\nmodulating scheme.\ni.\nAmplitude modulation\nii.\nFrequency modulation\niii.\n Phase modulation\n\n (6 Marks)\n\nb) A bank it to transmit data from Kenya to United States of America. Describe THREE\ntransmission impairments likely to affect the data while on transit.\n (6 Marks)\nc) Discuss the role of cellular towers in a mobile network.\n\n (3 Marks)",
+    "source_file": "contentitemfile_cmdjywko23himtpmsq64hk7pa.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS\na) Define the scope of the following members of a C# class\n\n [ 3 Marks]\n• private access specifier\n• protected member variable\n• Internal member variable\nb) Interpret the C# program provided below\n\n [5 marks]\nusing System;\nnamespace SimpleCSharpExample\n{ class Program {\n static void Main(string[] args){\n Console.WriteLine(\"Enter your first number:\");\n int num1 = Convert.ToInt32(Console.ReadLine());\n Console.WriteLine(\"Enter your second number:\");\n int num2 = Convert.ToInt32(Console.ReadLine());\n int sum = num1 + num2;\n Console.WriteLine($\"The sum of {num1} and {num2} is {sum}.\");}}}\nc) What is the purpose of the static keyword in C# [ 2 marks]\nd) Create a Car class with properties Make, Model, and Year. Include a method\nDisplayInfo() that prints out these properties. Instantiate the class in the Main() method\nand call DisplayInfo().\n\n [ 5 marks]\n\ne) In a C# console application, how would you ensure that user input is valid before\nperforming operations like adding an item to a shopping cart or entering personal\ninformation? Discuss techniques like input validation, regular expressions, and\nexception handling.\n\n [5 marks]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) Write a C# program that prompts the user to enter a number. If the user enters a non-\nnumeric value, handle the exception and print an error message.\n\n [4 marks]\nb) Explain the difference between passing parameters by value and by reference to a method\n [4 marks]\nc) A company is developing a cloud-based inventory management system that will handle\nthousands of users concurrently. The system needs to be scalable, secure, and responsive.\nThe company has chosen C# as the programming language for the back-end. As the lead\ndeveloper, how would you leverage C# and the .NET ecosystem to meet these\nrequirements? Discuss the design patterns, C# features, and tools you would use to ensure\nperformance, security, and scalability of the system\n\n [6 marks]\nd) Define garbage collection in C#\n\n [1 Mark]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) Discuss the application of four main concepts of OOP in the design of C# Applications.\n [5 marks]\nb) Write a C# program that takes a number from the user and checks whether the number is\neven or odd. Print the result on the console.\n\n [ 4 marks]\nc) Explain the difference between a class and a struct in C#\n\n [4 marks]\nd) Explain rule that one must observer when naming a variable in C# [2 marks]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na) Create a base class Animal with a method Speak(). Create a derived class Dog that\noverrides the Speak() method to print \"Woof\". Instantiate the Dog class in the Main()\nmethod and call Speak().\n\n [ 5 marks]\nb) Explain two main uses of using statement in C# [ 2 marks]\nc) Distinguish between the following terms as used in OOP [8 marks]\n• method overring and method overloading\n• Constructor and method\n• Virtual method and Abstract method.\n• Class and object",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1 (1).pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS\na) Define the scope of the following members of a C# class\n\n [ 3 Marks]\n• private access specifier\n• protected member variable\n• Internal member variable\nb) Interpret the C# program provided below\n\n [5 marks]\nusing System;\nnamespace SimpleCSharpExample\n{ class Program {\n static void Main(string[] args){\n Console.WriteLine(\"Enter your first number:\");\n int num1 = Convert.ToInt32(Console.ReadLine());\n Console.WriteLine(\"Enter your second number:\");\n int num2 = Convert.ToInt32(Console.ReadLine());\n int sum = num1 + num2;\n Console.WriteLine($\"The sum of {num1} and {num2} is {sum}.\");}}}\nc) What is the purpose of the static keyword in C# [ 2 marks]\nd) Create a Car class with properties Make, Model, and Year. Include a method\nDisplayInfo() that prints out these properties. Instantiate the class in the Main() method\nand call DisplayInfo().\n\n [ 5 marks]\n\ne) In a C# console application, how would you ensure that user input is valid before\nperforming operations like adding an item to a shopping cart or entering personal\ninformation? Discuss techniques like input validation, regular expressions, and\nexception handling.\n\n [5 marks]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) Write a C# program that prompts the user to enter a number. If the user enters a non-\nnumeric value, handle the exception and print an error message.\n\n [4 marks]\nb) Explain the difference between passing parameters by value and by reference to a method\n [4 marks]\nc) A company is developing a cloud-based inventory management system that will handle\nthousands of users concurrently. The system needs to be scalable, secure, and responsive.\nThe company has chosen C# as the programming language for the back-end. As the lead\ndeveloper, how would you leverage C# and the .NET ecosystem to meet these\nrequirements? Discuss the design patterns, C# features, and tools you would use to ensure\nperformance, security, and scalability of the system\n\n [6 marks]\nd) Define garbage collection in C#\n\n [1 Mark]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) Discuss the application of four main concepts of OOP in the design of C# Applications.\n [5 marks]\nb) Write a C# program that takes a number from the user and checks whether the number is\neven or odd. Print the result on the console.\n\n [ 4 marks]\nc) Explain the difference between a class and a struct in C#\n\n [4 marks]\nd) Explain rule that one must observer when naming a variable in C# [2 marks]",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na) Create a base class Animal with a method Speak(). Create a derived class Dog that\noverrides the Speak() method to print \"Woof\". Instantiate the Dog class in the Main()\nmethod and call Speak().\n\n [ 5 marks]\nb) Explain two main uses of using statement in C# [ 2 marks]\nc) Distinguish between the following terms as used in OOP [8 marks]\n• method overring and method overloading\n• Constructor and method\n• Virtual method and Abstract method.\n• Class and object",
+    "source_file": "contentitemfile_cmdk0pjng12b4g1r7j5w7knx1.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS) COMPULSORY\na) Differentiate between the following\ni). Application Programming Interface (API) and System Programming Interface (SPI)\nii). One-tier Client/Server Systems and three-tier Client/Server Architecture\n[4 marks]\nb) Explain what is a zombie process and how it is killed\n[4 marks]\nc) Using a diagram, explain the difference between little-endian byte order and big-endian\nbyte order\n[2 marks]\nd) Briefly describe the following TCP states transited between connection and termination.\nSYN_SENT\nTIME_WAIT\nLAST_ACK\n [6 marks]\ne) Explain two (2) things that happen when a server accepts a connection request from a\nclient\n\n [4 marks]",
+    "source_file": "contentitemfile_cmdk23ap9ds97xl0po6o1uu0w.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) TCP and UDP are the two common types of protocols used in the transport layer of the\nTCP/IP protocol suite. Explain any two differences between them\n[4 marks]\nb) Using a diagram describe how a TCP connection (three way handshake) and termination\n(four way handshake) that takes place between client and server. In your diagram include\nall the socket functions that are used and the corresponding TCP states transited between\nconnection and termination.\n [8 marks]\n\nc) List three pieces of network information are stored in a \"struct sockaddr\" structure\n[3 marks]\n\n2",
+    "source_file": "contentitemfile_cmdk23ap9ds97xl0po6o1uu0w.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) Define a client server system\n[2 marks]\nb) Write a C program for a TCP socket client that sends a message to the server and server\nechoes the same message. In your program initialize the socket address server with the\nservers’ IP address and port number that are passed through the command line arguments\nduring the execution of the program. Also, include the necessary header filers for the\nsocket API functions used in your program\n[10 marks]\nc) At the terminal, indicate how the program is compiled, build and executed in a\nUnix/Linux environment. Assume your program is to be connected to a server IP address\n192.168.0.89 at port 9997\n[3 marks]",
+    "source_file": "contentitemfile_cmdk23ap9ds97xl0po6o1uu0w.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na) Explain the functions of fork() and exec functions in TCP sockets.\n[4 marks]\nb) Explain the purpose of Interface Definition Language (IDL) when writing RPC programs\n [2 marks]\nc) Write an IDL for program to add two numbers\n[3 marks]\nd) David, a network programming student wants to develop a client server program using\nRemote Procedure Calls (RPC) approach\ni). Why should prefer to use RPC instead of socket programming?\n[2 marks]\nii). Why do he need a server stub in remote procedure call? Show an example of server\nstub\n[4 marks]",
+    "source_file": "contentitemfile_cmdk23ap9ds97xl0po6o1uu0w.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT311",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS)\nA mobile applications student at KCAU wants to create an app that reads a customer first\nname, last name and email address. Besides, the app should have a submit button. The layout\nshould be set to a relative layout.\na). Sketch the interface of this app (2 Marks)\nb). Write an XML code for this app (8 Marks)\nc). Identify and explain two ways in which views can be created in Android applications.\n (2 Marks)\nd). Describe the following components of an Android application and show how their classes\nare inherited from their main class in Java. (8 Marks)\ni).\nIntent\nii).\nActivity\niii).\nBroadcast receivers\niv).\nServices",
+    "source_file": "contentitemfile_cmdk41inl3hwbtpms7m89c4g1.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT311",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na). A BIT mobile programming KCAU student would like to design and build an application\nthat adds two numbers and displays the result. You are required to come up with the relevant\nviews and write a code for this application using the linear layout, vertical orientation.\n (7 Marks)\nb) With an aid of a diagram, describe the activity life cycle. (5 Marks)\nc). Describe the process of uploading an Android Application on to the Google play store.\n (3 Marks)\n\nPage 2 of 2",
+    "source_file": "contentitemfile_cmdk41inl3hwbtpms7m89c4g1.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT311",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\n a). A student at KCA university has created the below interface in Android Studio. The\ninterface is made up of two textviews and one button whose ids are txt1, txt2 and btn1\nrespectively as shown on the below interface. Generate an xml code that will be used to\ncreate the views for this interface using the relative layout.\n (7 Marks)\n\nb) The Android operating system is a stack of software components which is divided into five\nsections and four main layers. List and describe the FIVE sections of the Android\narchitecture.\n (5 Marks)\nc) Describe the importance of the following event handling concepts in the context of android\napplications development citing an example for each.\n(i). Event handler\n(ii).Event listener\niii).Event registration (3 Marks)",
+    "source_file": "contentitemfile_cmdk41inl3hwbtpms7m89c4g1.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT311",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\nMr. Mwangi wants an Android App to use for deductions for his staff when they are paid. The\ndeductions are payee (15%), NHIF (10%), SHA (5%) and SACCO (10%).\na) Sketch the interface that can be used to read the payment deductions. The interface should\nalso have a provision for reading the gross salary.\n (4 Marks)\nb) Write code that calculates the net salary after all the deductions have been done.\n (5 Marks)\nc) Write code that will send the value of the net salary and display it on the second activity.\n (4 Marks)\nd) Explain the role of the following in supporting android application: - (2 Marks)\ni). Emulator\nii). Linux Kernel\n\ntxt2\nbtn1\ntxt1",
+    "source_file": "contentitemfile_cmdk41inl3hwbtpms7m89c4g1.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS) COMPULSORY\na) Explain how aperture size influence both the exposure and depth of field in a\nphotograph?\n\n(5 marks)\nb) Discuss why it is important to avoid using very high ISO values in well-lit\nenvironments?\n\n(5 marks)\nc) Give two real-world scenarios where slow shutter speed would be preferred over fast\nshutter speed, and explain why.\n\n (5 marks)\nd) A grayscale image measures 800 × 600 pixels and uses 1 byte per pixel. Calculate the\nmemory required to store the image in kilobytes and convert your answer to megabytes.\n\n(5 marks)",
+    "source_file": "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) Describe how the rule of thirds can be used to improve the composition of a photograph.\nProvide an example of its application.\n\n (5 marks)\nb) Compare DSLR and smartphone cameras in terms of image quality and manual control.\nWhich one is more suitable for professional use, and why\n (5 marks)\nc) Mention any two image editing tools and explain how each can enhance a photograph.\n\n(5 marks)\n\nPage 2 of 2",
+    "source_file": "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na) AA photographer captures a moving cyclist at 1/1000s shutter speed and another at 1/30s.\nExplain, with reasoning, which image is likely to show motion blur. Support your answer\nwith a comparison of the two shutter speeds.\n\n(5 marks)\nb) If an image taken at ISO 100 appears too dark, and the ISO is increased to ISO 800, how\nmany times more sensitive is the camera sensor to light? Show the calculation and explain\nthe effect on image quality.\n\n(5 marks)\nc) Let's suppose that the settings for a perfect picture are: ISO 100, f5.6, 1/250. Explain what\ncan be done to get a greater depth of field.\n\n(5 marks)",
+    "source_file": "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na) If a lens has a focal length of 50mm, the aperture is set at f/2.8, and the subject is 2 meters\naway, what happens to the depth of field when the aperture is changed to f/11\n\n (5 marks)\nb) An image is 3000 × 2400 pixels. If it is printed at 300 DPI (dots per inch), calculate the\nphysical size of the print in inches (width and height).\n\n(5 marks)\nc) Explain the exposure triangle and how it affects an image.\n\n(5 marks)",
+    "source_file": "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "ISO100",
+    "year": "2024",
+    "question": "QUESTION FIVE (15 MARKS)\na) Your exam task requires capturing clear indoor photos without a flash: (10 marks)\ni.\nSuggest two camera settings that help achieve this and explain why.\nii.\nProvide two techniques that involve stabilization or post-processing that help\nreduce blur or noise.\nb) Describe how you can use photo-editing software to apply one creative effect. Include\na brief step-by-step process.\n\n(5 marks)",
+    "source_file": "contentitemfile_cmi471l2q12t6we01axnxe4ta.pdf",
+    "question_number": 5
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE – COMPULSORY [20 MARKS]\na)\nOutline and explain what you need for the investigations to be successful and the\nRecommended steps of an investigation on Email Abuse\n\n (5 Marks)\nb)\nDiscuss in detail the Purpose of digital Forensics\n\n (4 Marks)\nc)\nThe most critical aspect of computer forensics is validating digital evidence. Describe\ndifferent methods you can use to Validate digital evidence.\n\n (5 Marks)\nd)\nExisting laws and statutes simply can’t keep up with the rate of technological change.\nTherefore, when statutes or regulations don’t exist, case law is used. Describe by giving\na relevant example what is a case law.\n\n (6 Marks)",
+    "source_file": "contentitemfile_cmi473l860zopv101eqwsbdiw.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO [15 MARKS]\na) Identify and explain the steps need for any computer forensics activities. (10 Marks)\nb) Explain the difference between A bit-stream copy and backup copy by giving examples.\n (5 Marks)\n\nPage 2 of 2",
+    "source_file": "contentitemfile_cmi473l860zopv101eqwsbdiw.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE [15 MARKS]\na) To investigate digital evidence effectively, you must understand how the most commonly\nused OSs work and how they store files. Explain what a partition table is, stating where it\nis located and its hexadecimal code offset.\n\n (10 Marks)\nb) It is a requirement that a computer forensics investigator must exhibit the highest level of\nprofessional behavior at all times. Explain how one can maintain Professional Conduct.\n (5 Marks)",
+    "source_file": "contentitemfile_cmi473l860zopv101eqwsbdiw.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR [15 MARKS]\nKCA UNIVERSITY AFRICA would like to have digital forensic lab and the management have\ncalled you to advise them on quality assurance components checklist. Outline and describe the\nquality assurance checklist components that the digital forensics lab must have. (15 Marks)",
+    "source_file": "contentitemfile_cmi473l860zopv101eqwsbdiw.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION ONE (20 Marks) Compulsory\na) State the primary programming language used for Android app development and explain why it's\npreferred.\n\n (2 marks)\nb) Briefly explain the functions of the following components of a mobile application:\ni.\nonCreate() method\n\n(2 Marks)\nii.\nActivity\n\n(2 Marks)\nc) Describe the meaning of the term Intent in the context of mobile programming.\n (2 Marks)\nd) Briefly explain two reasons why the Android platform is preferred by developers when\ndeveloping mobile applications.\n\n (2 Marks)\ne) Describe three types of native mobile applications.\n\n(3 Marks)\nf) State and explain any three layout classes that are used to hold and organize user interface\ncontrols of a mobile application.\n\n(3 Marks)\ng) Describe the meaning of the term namespace as used in Android application development. Write\na sample XML code to illustrate how an Android namespace is declared.\n\n(4 Marks)\nh) Write a Java code snippet to handle button clicks in an Android application.\n(5 Marks)\ni) Write an XML code that displays the following output when executed in an emulator or real\ndevice\n\n(5 Marks)\n\nPage 2 of 3",
+    "source_file": "contentitemfile_cmi4cr28q120vvf01l9dw0w1t.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\na) Provide a brief description for each of the following fragment lifecycle methods:\n\n (8 marks)\ni. onAttach()\nii. onCreateView()\niii. onActivityCreated()\niv. onDetach()\nb) Write a Java program that reads two numbers from the user and performs the following operations:\nsum, difference, multiplication, and division.\n\n(4 marks)\nc) Identify and correct the errors in the following XML code:\n\n(3 marks)\n<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<resources>\n <color name=\"opaque_red\">#f00</color>\n <string name=\"hello\">Hello!</string>\n</resources>",
+    "source_file": "contentitemfile_cmi4cr28q120vvf01l9dw0w1t.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION THREE\na) Briefly explain the difference between procedural and declarative design methods as used in\nmobile programming. Describe the programming language that is used to implement each\nmethod.\n\n(4 Marks)\n\nb) Explain the purpose of the following input controls in the context of the Android platform. Write\na sample XML or Java code for defining each term.\n\n (6 Marks)\n\nPage 3 of 3\n\n (i) Spinner\n (ii) EditText\nc) Describe five state transition methods in the context of the activity life cycle.\n(5 Marks)",
+    "source_file": "contentitemfile_cmi4cr28q120vvf01l9dw0w1t.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "Unknown",
+    "year": "2024",
+    "question": "QUESTION FOUR\na) Android platform consists of three components. Describe each of these components.\n\n(3 Marks)\nb) Describe the differences between views and view groups in the context of mobile programming.\nState one example for each case.\n\n(4 Marks)\nc) Briefly explain the term nesting of XML tags in the context of Extensible Markup Language\n(XML). Write a sample XML code that demonstrates the application of the term.\n\n (4 Marks)\nd) Describe the purpose of the res/ folder in the context of Android applications.\n(2 Marks)\ne) Describe two advantages of developing Android applications.\n\n (2 Marks)",
+    "source_file": "contentitemfile_cmi4cr28q120vvf01l9dw0w1t.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2024",
+    "question": "QUESTION ONE IS COMPULSORY, CHOOSE TWO OTHER QUESTIONS",
+    "source_file": "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf",
+    "question_number": 1
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2024",
+    "question": "QUESTION ONE (20 MARKS) COMPULSORY\n\na. Identify any three data structures that are used to implement other data structures\n\n (3 marks)\nb. Using an illustration, distinguish between the following terms in Data structures\n\n (6 marks)\ni.\nUser defined types and Built in Types\nii.\nList and linked list\niii.\nAlgorithm and Pseudo code\nc. Suppose a dynamic integer array a with indices beginning at 0 has 1000 elements and the\nline of code a[1000] = a[5] is executed . How many array values must be moved from one\nmemory location to another to complete this assignment statement?\n\n (3 marks)\n\nPage 2 of 3\n\nd. What will be the time complexity for executing the statement in ( c) above .\n\n (2 marks)\ne. Fill in the following table with equivalent expressions in each row.\n (6 marks)",
+    "source_file": "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf",
+    "question_number": 2
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2024",
+    "question": "QUESTION TWO (15 MARKS)\n\na. List any two operations whose resultant effect will modify the structure and size of a stack.\n\n(2 marks)\nb. Write a stack-based algorithm to evaluate infix expressions\n (5 marks)\nSuppose we are using a stack to manage curly braces in a program such that “{“results in\na push() operation and a “}”results in a pop() operation.\nc. What is most likely to happen to the expression below with regard to the stack?\ni.\n{a-b{(c*k )}\nii.\n{a+c}*d}\niii.\n{k^x(c-b)}\n\n(3 marks)\n\nd. You have been given the following data which is unsorted. {Jack, Jill, mill, Phil, pill, fill,\npeel, bill, kill, till}. You are required to perform an insertion sort on the data above in\ndescending order.\n\n(5 marks)\n\nPage 3 of 3",
+    "source_file": "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf",
+    "question_number": 3
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2024",
+    "question": "QUESTION THREE (15 MARKS)\na. Consider the data set below representing the rainfall patterns in one of the counties in\nKenya.\n10.21\n15.2\n7.5\n3.6\n11.4\n10.2\n6.3\nYou are required to do the following.\ni.\nWrite the algorithm for performing a merge sort on the set of data above\n\n(3 marks)\nii.\nPerform the merge sort using an illustration showing the steps required to sort the\ndata\n\n(4 marks)\nb. Use the data below to insert in a hash tableof size seven (7) using a hash function\nH(K)= kmod7 n = {13,17,6,24,3}\n*Showyour working to earn a full marks\nc. Use separate chaining where each bucketpoints to a sorted linked list\n(4 marks)\n\n0\n1\n2\n3\n4\n5\n6\nd. Use double hashing where H2(k)=7(kmod5)\n\n(4 marks)\n\n0\n1\n2\n3\n4\n5\n6",
+    "source_file": "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf",
+    "question_number": 4
+  },
+  {
+    "course": "Tech_Faculty",
+    "unit": "BBIT106",
+    "year": "2024",
+    "question": "QUESTION FOUR (15 MARKS)\na. List the first five orders of growth (order of magnitude) of functions used in analysis\nof an algorithm\n\n(5 marks)\nb. Consider the following data of a binary tree. {E, b,C,r,0,K,1,2,!, *,b,& }representing\nan encrypted password.. Give the in order traversal for the same.\n(5 marks)\nc. Write the algorithm of deleting the node with value K in the tree structure in (b) above.\n(5 marks)",
+    "source_file": "contentitemfile_cmi4d4r9m1597ve0139qcog9k.pdf",
+    "question_number": 5
+  }
+]
